@@ -4,7 +4,11 @@ description: This resource contains informations related to indefinite integrals
   comparison.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/5b2a4c9e8a966c8aab9f7e8a347a5401_MIT18_01SCF10_Ses92c.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 92: Integral Comparison'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses92c.pdf
+type: OCWFile
 uid: 5b2a4c9e-8a96-6c8a-ab9f-7e8a347a5401
 ---

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 68: Integral of sin^n(x) cos^m(x), Odd Exponents'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 4: Integral of sin3(x)'
 uid: 3a158e4a-2894-2d87-2f4e-a0edecb20877

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 7: Derivatives of Sine and Cosine'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Derivatives of Sine and Cosine
 uid: b2361151-e8e4-0a7a-9240-4580d40b3721

@@ -4,7 +4,11 @@ description: This resource contains information related to serivative as a rate 
   change.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/abb7e03ceca1497311d16b409e43676e_MIT18_01SCF10_Ses3c.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 3: Derivative as Rate of Change'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses3c.pdf
+type: OCWFile
 uid: abb7e03c-eca1-4973-11d1-6b409e43676e
 ---

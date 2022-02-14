@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 56: Geometric Interpretation of Definite Integrals'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Area Between the Graphs of Sine and Cosine
 uid: a1c62438-1dc4-219f-4fae-f1268ac77582

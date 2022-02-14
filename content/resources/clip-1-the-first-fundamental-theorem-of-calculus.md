@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 47: Introduction of the Fundamental Theorem of Calculus'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: The First Fundamental Theorem of Calculus'
 uid: c699182b-bdb8-86ac-4b31-a264b770dc1e

@@ -4,7 +4,11 @@ description: This resource contains solutions related to integrals involving sec
   cosecant and cotangent.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/c05c05172bf0f7543b3c2daeaf308521_MIT18_01SCF10_ex71sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex71sol.pdf
+type: OCWFile
 uid: c05c0517-2bf0-f754-3b3c-2daeaf308521
 ---

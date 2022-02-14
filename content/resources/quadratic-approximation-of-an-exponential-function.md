@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 25: Introduction to Quadratic Approximation'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Quadratic Approximation of an Exponential Function
 uid: f941a2b8-c373-1e98-34c3-c5a50c30d794

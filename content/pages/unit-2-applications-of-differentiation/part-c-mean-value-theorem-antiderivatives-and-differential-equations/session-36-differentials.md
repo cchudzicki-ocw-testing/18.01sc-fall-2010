@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equations'
+parent_type: CourseSection
 parent_uid: cc849d58-0178-1635-e7d9-29c121e176fe
 title: 'Session 36: Differentials'
+type: CourseSection
 uid: fa53a54f-7384-1c72-094d-c4856e73978e
 ---
 

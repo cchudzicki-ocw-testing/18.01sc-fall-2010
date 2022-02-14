@@ -4,7 +4,11 @@ description: This resource contains information about introduction to differenti
   equations.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/10a90cf559c88b77a41d299a9cb89572_MIT18_01SCF10_Ses39a.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 39: Introduction to Differential Equations'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses39a.pdf
+type: OCWFile
 uid: 10a90cf5-59c8-8b77-a41d-299a9cb89572
 ---

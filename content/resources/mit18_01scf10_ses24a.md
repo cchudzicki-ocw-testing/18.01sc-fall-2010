@@ -3,7 +3,11 @@ content_type: resource
 description: This resource contains information related to examples of linear approximation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/b13a0fb3e9f3900baf89e2d3649337a8_MIT18_01SCF10_Ses24a.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 24: Examples of Linear Approximation'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses24a.pdf
+type: OCWFile
 uid: b13a0fb3-e9f3-900b-af89-e2d3649337a8
 ---

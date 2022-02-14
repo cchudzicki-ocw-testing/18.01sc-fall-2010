@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 23: Linear Approximation'
+parent_type: CourseSection
 resourcetype: Image
 title: lec09.jpg
+type: OCWImage
 uid: 581cba00-3af1-3ea8-a589-4a3e8c29f5c8
 ---

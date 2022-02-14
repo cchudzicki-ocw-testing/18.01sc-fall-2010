@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 13: Implicit Differentiation'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Implicit Differentiation: Rational Exponent Rule'
 uid: c22bb9f3-8d53-bfa3-1de4-29a979f83b22

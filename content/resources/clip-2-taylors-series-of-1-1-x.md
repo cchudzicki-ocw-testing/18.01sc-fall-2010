@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 99: Taylor''s Series, Continued'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Taylor''s Series of 1/(1 + x)'
 uid: 52214f10-b4bf-d356-3b04-b560ea00fe26

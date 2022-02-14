@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 14: Examples of Implicit Differentiation'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Slope of Tangent to Circle: Implicit'
 uid: 21cba796-97d1-6197-5ea4-a92cb2b3d356

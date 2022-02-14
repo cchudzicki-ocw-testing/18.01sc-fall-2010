@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 23: Linear Approximation'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 4: Approximations at 0 for Sine, Cosine and Exponential Functions'
 uid: d05d2844-d71c-e6e4-b188-56df7c3bd252

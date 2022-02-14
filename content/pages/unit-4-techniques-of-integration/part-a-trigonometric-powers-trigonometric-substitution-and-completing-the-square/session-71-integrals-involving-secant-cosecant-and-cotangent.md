@@ -1,9 +1,12 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Completing
   the Square'
+parent_type: CourseSection
 parent_uid: 6b4ef500-53da-70f0-e865-4886100e09bb
 title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
+type: CourseSection
 uid: 369ea1a0-42d3-4dea-55d0-7a2b967f59af
 ---
 
@@ -30,14 +33,14 @@ Lecture Video and Notes
 Recitation Video
 ----------------
 
-### Integral of tan4θ
+### Integral of tan{{< sup "4" >}}θ
 
 {{< resource b5372aa3-77e0-b1f3-7d19-87c6f879415e >}}
 
 Worked Example
 --------------
 
-Integral of tan3(x)
+Integral of tan{{< sup "3" >}}(x)
 
 *   [Problem (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex71prb)
 *   [Solution (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ex71sol)

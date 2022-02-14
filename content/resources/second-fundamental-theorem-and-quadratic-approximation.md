@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 51: The Second Fundamental Theorem of Calculus'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Second Fundamental Theorem and Quadratic Approximation
 uid: 85ee87cd-b697-f2a6-c7d0-00ab005329c5

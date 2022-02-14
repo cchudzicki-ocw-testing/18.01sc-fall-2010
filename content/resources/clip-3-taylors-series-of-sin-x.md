@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 99: Taylor''s Series, Continued'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 3: Taylor''s Series of sin(x)'
 uid: 4a86fd75-9899-be45-d972-f6d19b0b883d

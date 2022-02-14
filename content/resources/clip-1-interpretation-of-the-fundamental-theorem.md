@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 48: The Fundamental Theorem of Calculus'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Interpretation of the Fundamental Theorem'
 uid: 3d0e48d9-709b-ecc8-6a6b-010ab5a65917

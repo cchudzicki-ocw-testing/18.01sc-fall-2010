@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 88: Examples of L''Hospital''s Rule'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Limit of sin(5x)/sin(2x)'
 uid: 827530ca-77a2-59d7-b9e7-9d7f49b93601

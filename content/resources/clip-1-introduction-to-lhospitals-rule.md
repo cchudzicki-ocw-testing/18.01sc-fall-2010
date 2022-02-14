@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 87: L''Hospital''s Rule'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Introduction to L''Hospital''s Rule'
 uid: 64b70d00-baa4-a4f3-ac74-0c815f607e9b

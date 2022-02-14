@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 51: The Second Fundamental Theorem of Calculus'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Using the Second Fundamental Theorem of Calculus'
 uid: 4fa23bfb-54ba-ea5a-bb1a-9efecf78d179

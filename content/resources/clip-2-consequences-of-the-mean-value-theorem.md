@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 34: Introduction to the Mean Value Theorem'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Consequences of the Mean Value Theorem'
 uid: e33e5f75-a2fc-21fa-276f-88c31e8f1487

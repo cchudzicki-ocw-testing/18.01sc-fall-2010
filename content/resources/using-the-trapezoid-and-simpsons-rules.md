@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 63: Numerical Integration'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Using the Trapezoid and Simpson's Rules
 uid: e0427fa2-0ca1-12ed-567c-b5fb2e667bfb

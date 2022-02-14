@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 83: Polar Coordinates, Continued'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Area of an Off-Center Circle'
 uid: f9ab02fb-90fc-603d-7c27-1db29e848cfc

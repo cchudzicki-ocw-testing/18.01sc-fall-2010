@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 33: Newton''s Method'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 3: Newton''s Method: What Could Go Wrong?'
 uid: a3c4543c-c1d8-8ba3-9dda-2cd165ce78b9

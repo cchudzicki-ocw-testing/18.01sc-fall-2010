@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equations'
+parent_type: CourseSection
 parent_uid: cc849d58-0178-1635-e7d9-29c121e176fe
 title: Problem Set 5
+type: CourseSection
 uid: 97254795-b765-e86a-aa7a-43d7e75579c3
 ---
 

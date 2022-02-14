@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 52: Proving the Fundamental Theorem of Calculus'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Proof of the Second Fundamental Theorem of Calculus'
 uid: 4396dc9b-442a-9119-9079-f97d58dd045c

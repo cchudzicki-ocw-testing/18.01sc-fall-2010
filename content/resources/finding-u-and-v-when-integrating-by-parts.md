@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 76: Integration by Parts'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Finding u and v' When Integrating by Parts
 uid: 4a1c1d34-2b03-5253-4bab-3a6fa63f10d0

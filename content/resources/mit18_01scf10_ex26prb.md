@@ -4,7 +4,11 @@ description: This resource contains problem statements related to finding a form
   for the best degree n approximation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/dfcfe7b27c373626da08816b84885cdc_MIT18_01SCF10_ex26prb.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 26: Using Quadratic Approximations'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex26prb.pdf
+type: OCWFile
 uid: dfcfe7b2-7c37-3626-da08-816b84885cdc
 ---

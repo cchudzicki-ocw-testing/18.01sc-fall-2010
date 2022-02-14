@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 15: Implicit Differentiation and Inverse Functions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Derivative of the Inverse of a Function'
 uid: 3fa63db0-186a-5fcc-a075-8cc5a5c531af

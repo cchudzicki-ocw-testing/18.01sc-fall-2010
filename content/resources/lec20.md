@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 50: Combining the Fundamental Theorem and the Mean Value Theorem'
+parent_type: CourseSection
 resourcetype: Image
 title: lec20.jpg
+type: OCWImage
 uid: 9b92bead-006b-7d0a-c970-bbb9ed7fc2b5
 ---

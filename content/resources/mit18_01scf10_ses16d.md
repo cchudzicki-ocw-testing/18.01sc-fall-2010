@@ -3,7 +3,11 @@ content_type: resource
 description: This resource contains information related to the derivative of a^x.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/8a4568c53334a525e3607584816aa460_MIT18_01SCF10_Ses16d.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 16: The Derivative of a^x'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses16d.pdf
+type: OCWFile
 uid: 8a4568c5-3334-a525-e360-7584816aa460
 ---

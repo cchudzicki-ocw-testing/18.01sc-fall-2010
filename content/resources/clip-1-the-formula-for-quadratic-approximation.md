@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 25: Introduction to Quadratic Approximation'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: The Formula for Quadratic Approximation'
 uid: 39f4e415-e7d0-3c4f-fc16-52acf225e4c4

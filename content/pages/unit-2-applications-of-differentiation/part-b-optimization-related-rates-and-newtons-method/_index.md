@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 2. Applications of Differentiation
+parent_type: CourseSection
 parent_uid: c2ca8a0d-20e5-96b1-1e2e-c5c48c7179ca
 title: 'Part B: Optimization, Related Rates and Newton''s Method'
+type: CourseSection
 uid: 7bd0936f-cddb-b454-b9e5-dab2884cc641
 ---
 

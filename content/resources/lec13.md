@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 31: Related Rates'
+parent_type: CourseSection
 resourcetype: Image
 title: lec13.jpg
+type: OCWImage
 uid: 4d1e808a-9591-cb46-347e-9cce09223066
 ---

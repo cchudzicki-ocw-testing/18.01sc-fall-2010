@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 27: Sketching Graphs I - Polynomials and Rational Functions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 3: Graphing a Rational Function'
 uid: 886021db-8e2f-9eee-60ad-ba70195ba44f

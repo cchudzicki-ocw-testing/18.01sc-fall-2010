@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 84: Polar Coordinates and Graphing'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 3: Polar Coordinates and Conic Sections'
 uid: aa32da2a-5d52-2a63-9548-3067a2b74e99

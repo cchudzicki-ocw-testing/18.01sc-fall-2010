@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Integral of tan^4\u03B8"
 uid: b5372aa3-77e0-b1f3-7d19-87c6f879415e

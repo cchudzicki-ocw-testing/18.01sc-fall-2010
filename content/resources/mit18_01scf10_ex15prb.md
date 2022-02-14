@@ -4,7 +4,11 @@ description: This resource contains problem statements related to derivative of 
   square root function.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/5194ae000d2b14dc7a9e377fc2eff268_MIT18_01SCF10_ex15prb.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 15: Implicit Differentiation and Inverse Functions'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex15prb.pdf
+type: OCWFile
 uid: 5194ae00-0d2b-14dc-7a9e-377fc2eff268
 ---

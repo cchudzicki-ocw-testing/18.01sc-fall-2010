@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 64: Numerical Integration, Continued'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 3: Numerical Integration Study Tips'
 uid: 1d7042d0-7f1f-9a65-ec33-e5e2f0cf8287

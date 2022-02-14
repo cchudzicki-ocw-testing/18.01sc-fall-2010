@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 17: The Exponential Function, its Derivative, and its Inverse'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Derivative of ax'
 uid: 36a525be-7086-37b3-7ccf-72368ce1973e

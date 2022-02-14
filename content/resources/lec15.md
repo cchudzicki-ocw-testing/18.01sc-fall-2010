@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 36: Differentials'
+parent_type: CourseSection
 resourcetype: Image
 title: lec15.jpg
+type: OCWImage
 uid: 2e81f162-1288-40ee-c8ba-503a0a1d6276
 ---

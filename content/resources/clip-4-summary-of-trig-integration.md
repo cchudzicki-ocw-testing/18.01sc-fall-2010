@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 4: Summary of Trig Integration'
 uid: cc4fcfaf-0b5e-5948-e7a1-0786f114764d

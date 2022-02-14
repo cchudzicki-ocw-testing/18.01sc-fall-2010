@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 90: Advanced Examples of L''Hospital''s Rule'
+parent_type: CourseSection
 resourcetype: Image
 title: lec36.jpg
+type: OCWImage
 uid: 6ce0f1f0-e160-24f8-31ae-a3a63c6f8005
 ---

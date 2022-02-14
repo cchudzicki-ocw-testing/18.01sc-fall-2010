@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 89: L''Hospital''s Rule and Rates of Growth'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 3: Comparing Growth of ln(x) and x1/3'
 uid: 9d115bd0-2419-655e-06fe-ff0bd27cb562

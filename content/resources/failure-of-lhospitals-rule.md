@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 90: Advanced Examples of L''Hospital''s Rule'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Failure of L'Hospital's Rule
 uid: 23df603f-d6c7-9a16-488d-6b9ae507e8da

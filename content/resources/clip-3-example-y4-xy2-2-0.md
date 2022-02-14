@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 14: Examples of Implicit Differentiation'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 3: Example: y4+xy2-2=0'
 uid: fa4477d1-9a8b-e5f9-5b6f-acad471d89ef

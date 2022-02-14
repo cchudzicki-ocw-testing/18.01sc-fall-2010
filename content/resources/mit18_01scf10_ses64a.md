@@ -3,7 +3,11 @@ content_type: resource
 description: This resource contains information about numerical integration, continued.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/85fe52841cc95fcfbd6cb13d068be87e_MIT18_01SCF10_Ses64a.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 64: Numerical Integration, Continued'
+parent_type: CourseSection
 resourcetype: Document
 title: mMIT18_01SCF10_Ses64a.pdf
+type: OCWFile
 uid: 85fe5284-1cc9-5fcf-bd6c-b13d068be87e
 ---

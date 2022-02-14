@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 59: Volume of a Parabaloid, Revolving About y-axis'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Volume of Revolution via Shells
 uid: 344f1f13-ba8c-0930-cecf-02f248dabc33

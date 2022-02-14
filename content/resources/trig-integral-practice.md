@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 68: Integral of sin^n(x) cos^m(x), Odd Exponents'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Trig Integral Practice
 uid: 8007b2db-c807-e0c2-a8be-05a5fa684aeb

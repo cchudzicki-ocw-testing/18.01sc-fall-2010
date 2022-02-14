@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 26: Using Quadratic Approximations'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Quadratic Approximation of a Product
 uid: 55564a46-4676-97e3-9819-e54963fcb5ae

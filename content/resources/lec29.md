@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 74: Integration by Partial Fractions'
+parent_type: CourseSection
 resourcetype: Image
 title: lec29.jpg
+type: OCWImage
 uid: 7a17dd5c-338f-1ac0-7b53-0c9af7466eda
 ---

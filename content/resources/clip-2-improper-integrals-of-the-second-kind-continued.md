@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 93: Indefinite Integrals and Singularities'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Improper Integrals of the Second Kind, Continued'
 uid: 12a32839-3346-d21e-ee57-3e96f334cac7

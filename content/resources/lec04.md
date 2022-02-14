@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 9: Product Rule'
+parent_type: CourseSection
 resourcetype: Image
 title: lec04.jpg
+type: OCWImage
 uid: 29f3d9af-7b30-073a-4786-56282d0a2d30
 ---

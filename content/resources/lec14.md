@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 33: Newton''s Method'
+parent_type: CourseSection
 resourcetype: Image
 title: lec14.jpg
+type: OCWImage
 uid: d163bb93-a6e2-ede2-f0cf-edeb766ba7d2
 ---

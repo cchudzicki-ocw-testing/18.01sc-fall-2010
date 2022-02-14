@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Part A: L''Hospital''s Rule and Improper Integrals'
+parent_type: CourseSection
 parent_uid: 70119623-65c7-a7e3-1179-a33dc8e95275
 title: 'Session 93: Indefinite Integrals and Singularities'
+type: CourseSection
 uid: f502f183-c03e-6d5e-51e8-24f9afc4cf8c
 ---
 

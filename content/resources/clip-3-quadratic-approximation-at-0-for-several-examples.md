@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 25: Introduction to Quadratic Approximation'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 3: Quadratic Approximation at 0 for Several Examples'
 uid: aca7d082-e903-4e2d-ba1e-f0b35ef6baa7

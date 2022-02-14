@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 30: Optimization Problems II'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Minimal Surface Area of a Box: Direct Solution'
 uid: b548a56b-38c5-8b31-e5a3-436f177c1ab9

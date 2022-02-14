@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 78: Computing the Length of a Curve'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Arc Length of y=x3/2
 uid: 4a85b6bc-cce1-e65d-c8d2-190a38cc7a69

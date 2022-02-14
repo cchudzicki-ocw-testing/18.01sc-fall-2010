@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 27: Sketching Graphs I - Polynomials and Rational Functions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Example: 3x-x3'
 uid: bae609b7-29ae-b61c-18af-57bd4e0bef0c

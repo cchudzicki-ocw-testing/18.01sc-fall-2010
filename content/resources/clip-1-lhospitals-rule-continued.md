@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 90: Advanced Examples of L''Hospital''s Rule'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: L''Hospital''s Rule, Continued'
 uid: 3e20854a-b8f9-9f52-9491-d3fa5f48a351

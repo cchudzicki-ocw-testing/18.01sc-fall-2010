@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 84: Polar Coordinates and Graphing'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Graph of r = sin(2&theta;)'
 uid: d144a8df-a938-110d-c248-250a5d0c0b71

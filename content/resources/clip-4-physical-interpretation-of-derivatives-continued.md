@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 3: Derivative as Rate of Change'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 4: Physical Interpretation of Derivatives, Continued'
 uid: 7d5236f8-d144-fdcc-7f07-3e52a26b1744

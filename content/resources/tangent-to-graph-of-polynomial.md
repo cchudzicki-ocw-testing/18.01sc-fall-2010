@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 6: Calculating Derivatives'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Tangent to Graph of Polynomial
 uid: 351515e1-5ca4-d4e0-8fac-6e65d2a42b18

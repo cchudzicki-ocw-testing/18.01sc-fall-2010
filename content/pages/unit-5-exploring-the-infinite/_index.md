@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: 5. Exploring the Infinite
+type: CourseSection
 uid: 6e3abd11-deb0-9fc4-9199-b1e8893935e7
 ---
 

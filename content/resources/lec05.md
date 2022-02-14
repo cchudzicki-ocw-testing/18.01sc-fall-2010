@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 13: Implicit Differentiation'
+parent_type: CourseSection
 resourcetype: Image
 title: lec05.jpg
+type: OCWImage
 uid: c184eaf5-1124-4491-ea69-17e46d53ca93
 ---

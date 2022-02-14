@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 24: Examples of Linear Approximation'
+parent_type: CourseSection
 resourcetype: Image
 title: lec10.jpg
+type: OCWImage
 uid: 623ca94e-9f51-2428-0386-19da1d7b12ed
 ---

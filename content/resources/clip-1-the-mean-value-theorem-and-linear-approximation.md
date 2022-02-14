@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 35: Using the Mean Value Theorem'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: The Mean Value Theorem and Linear Approximation'
 uid: 448f01ad-bc35-de7f-f676-b7d9fb2fb06f

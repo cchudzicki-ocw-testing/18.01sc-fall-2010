@@ -1,9 +1,12 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Completing
   the Square'
+parent_type: CourseSection
 parent_uid: 6b4ef500-53da-70f0-e865-4886100e09bb
 title: Problem Set 9
+type: CourseSection
 uid: 14f8514c-d814-3524-d623-7c820201bc0c
 ---
 

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 7: Derivatives of Sine and Cosine'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Derivative of sin(x), Algebraic Proof'
 uid: db7a32a1-49bc-77dd-172c-8fb5394cb5ab

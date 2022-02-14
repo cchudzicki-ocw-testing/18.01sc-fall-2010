@@ -4,7 +4,11 @@ description: This resource contains the solutions for the problems related to th
   exploring a parametric curve.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/15f8e38786ae3b738375debb112ee660_MIT18_01SCF10_ex80sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 80: Parametric Curves'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex80sol.pdf
+type: OCWFile
 uid: 15f8e387-86ae-3b73-8375-debb112ee660
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 93: Indefinite Integrals and Singularities'
+parent_type: CourseSection
 resourcetype: Image
 title: lec37.jpg
+type: OCWImage
 uid: ff0edae5-996e-93bf-4c55-931355dbe5f8
 ---

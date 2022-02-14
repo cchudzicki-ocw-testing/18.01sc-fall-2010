@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 35: Using the Mean Value Theorem'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Comparing Functions Using the MVT
 uid: 6caac3aa-0702-9b9f-ae72-b4e34c3fdc66

@@ -9,7 +9,9 @@ image_metadata:
   credit: Image courtesy of Haynes Miller, Heidi Burgiel, and J.-M. Claus.
   image-alt: 'A graph of three lines, red, yellow, and blue that represent secant
     approximation. '
+learning_resource_types: []
 resourcetype: Image
 title: CHP_secant.jpg
+type: OCWImage
 uid: 7b739fdc-0a8f-b030-2fdb-e037fbaa89a3
 ---

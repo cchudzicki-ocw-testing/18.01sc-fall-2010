@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Part A: Definition and Basic Rules'
+parent_type: CourseSection
 parent_uid: 962d1716-11a1-01d4-9f86-5818d41217eb
 title: 'Session 7: Derivatives of Sine and Cosine'
+type: CourseSection
 uid: 118fc2aa-2f82-b048-3267-f66bf76b6ba7
 ---
 

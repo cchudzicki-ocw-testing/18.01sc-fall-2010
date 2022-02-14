@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 50: Combining the Fundamental Theorem and the Mean Value Theorem'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Review of the Fundamental Theorem'
 uid: c207e7c4-151e-2084-9581-e05f1ba4058c

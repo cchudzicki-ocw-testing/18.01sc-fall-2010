@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 30: Optimization Problems II'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Minimal Surface Area of a Box: Implicit   Differentiation'
 uid: 86818551-bc8f-bba3-55e8-5f6069468d41

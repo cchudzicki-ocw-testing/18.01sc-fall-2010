@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 40: Separation of Variables'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: xy'=(x2+x)(y2+1)
 uid: be498b0d-9f88-09c4-b6e9-3a17ac0e9038

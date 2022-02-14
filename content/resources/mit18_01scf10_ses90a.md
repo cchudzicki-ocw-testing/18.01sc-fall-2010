@@ -4,7 +4,11 @@ description: This resource contains informations related to advanced examples of
   rule.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/a836267e97f450ae2bc7588b73a9ffc6_MIT18_01SCF10_Ses90a.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 90: Advanced Examples of L''Hospital''s Rule'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses90a.pdf
+type: OCWFile
 uid: a836267e-97f4-50ae-2bc7-588b73a9ffc6
 ---

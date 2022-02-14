@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 59: Volume of a Parabaloid, Revolving About y-axis'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Warning about Units'
 uid: bbf68501-1cc0-de38-5244-42d29e1b11b2

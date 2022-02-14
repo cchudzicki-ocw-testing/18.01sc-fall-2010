@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 90: Advanced Examples of L''Hospital''s Rule'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Limit of sin(x)/(x2)'
 uid: 1f20b84e-0517-03f7-5db5-d0ef1460949c

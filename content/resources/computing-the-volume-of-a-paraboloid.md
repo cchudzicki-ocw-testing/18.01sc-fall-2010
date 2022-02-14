@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 46: Riemann Sums'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Computing the Volume of a Paraboloid
 uid: 2be6fe1d-b7aa-c6db-f229-f8d5bf83dca0

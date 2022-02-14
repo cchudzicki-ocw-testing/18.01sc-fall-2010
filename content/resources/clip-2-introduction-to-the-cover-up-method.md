@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 74: Integration by Partial Fractions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Introduction to the Cover-Up Method'
 uid: 8e3424bf-4654-8ef0-a9ca-8e00035a1ec8

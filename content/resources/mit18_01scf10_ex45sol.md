@@ -4,7 +4,11 @@ description: This resource contains solutions for the problem statements related
   easy integrals.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/244ff558563ac817868a5d1b4494c234_MIT18_01SCF10_ex45sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 45: Some Easy Integrals'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex45sol.pdf
+type: OCWFile
 uid: 244ff558-563a-c817-868a-5d1b4494c234
 ---

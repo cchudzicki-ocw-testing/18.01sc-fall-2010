@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 69: Integral of sin^n(x) cos^m(x), Even Exponents'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Integral of cos2(x)'
 uid: 5f7dd980-2deb-aa6c-d92d-7937e74b95a6

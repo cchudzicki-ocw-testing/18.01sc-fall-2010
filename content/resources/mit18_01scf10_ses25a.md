@@ -3,7 +3,11 @@ content_type: resource
 description: New file Upload
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/892f317b64473e44f6be224eb957afc2_MIT18_01SCF10_Ses25a.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 25: Introduction to Quadratic Approximation'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses25a.pdf
+type: OCWFile
 uid: 892f317b-6447-3e44-f6be-224eb957afc2
 ---

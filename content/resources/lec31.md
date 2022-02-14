@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 78: Computing the Length of a Curve'
+parent_type: CourseSection
 resourcetype: Image
 title: lec31.jpg
+type: OCWImage
 uid: ad876c12-0cb6-79ff-4431-3947607b9c0c
 ---

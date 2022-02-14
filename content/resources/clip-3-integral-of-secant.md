@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 3: Integral of Secant'
 uid: 07499e52-6656-bd48-ed3a-7b6b6891a9ba

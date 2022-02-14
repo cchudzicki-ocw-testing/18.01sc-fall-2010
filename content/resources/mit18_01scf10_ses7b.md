@@ -4,7 +4,11 @@ description: This resource contains information related to derivatives of sine a
   cosine.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/5e568f34e774d2a56b3fbc07335a5fbb_MIT18_01SCF10_Ses7b.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 7: Derivatives of Sine and Cosine'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses7b.pdf
+type: OCWFile
 uid: 5e568f34-e774-d2a5-6b3f-bc07335a5fbb
 ---

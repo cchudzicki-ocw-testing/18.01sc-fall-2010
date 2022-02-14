@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 94: Infinite Series'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Clip 1: Introduction to In\uFB01nite Series"
 uid: 1602117f-778e-b5e7-eb1c-34b09a4456f5

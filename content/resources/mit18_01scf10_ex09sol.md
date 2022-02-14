@@ -4,7 +4,11 @@ description: This resource contains solutions for the problem statements related
   product rule.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/b274df23e6ada7c665e6cfe72928b197_MIT18_01SCF10_ex09sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 9: Product Rule'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex09sol.pdf
+type: OCWFile
 uid: b274df23-e6ad-a7c6-65e6-cfe72928b197
 ---

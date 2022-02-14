@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 59: Volume of a Parabaloid, Revolving About y-axis'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Volume of a Paraboloid via Disks
 uid: 14d0939e-f44e-8035-ad39-e06108d3285f

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 15: Implicit Differentiation and Inverse Functions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Graphing the Arctan Function
 uid: ce1f1db6-6b0f-b24f-2600-ce37da32d721

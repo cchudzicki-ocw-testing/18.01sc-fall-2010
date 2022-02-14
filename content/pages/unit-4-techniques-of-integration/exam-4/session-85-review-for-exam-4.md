@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Exam 4
+parent_type: CourseSection
 parent_uid: 6484ae59-4046-2fad-f99f-0d827e877e70
 title: 'Session 85: Review for Exam 4'
+type: CourseSection
 uid: 4699d63d-2fc1-6b8b-d7fc-498a382dc972
 ---
 

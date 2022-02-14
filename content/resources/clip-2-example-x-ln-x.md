@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 28: Sketching Graphs II - General Strategies'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Example: x/ln x'
 uid: edb9566c-75a4-17bb-6adc-ea0b6819b7e5

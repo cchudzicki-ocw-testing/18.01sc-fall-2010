@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 101: Conclusion'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Series Calculation Using a Riemann Sum
 uid: 0ca5f452-7e59-1328-e338-c6ff69d5a7ac

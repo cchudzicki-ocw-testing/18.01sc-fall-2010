@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
+parent_type: CourseSection
 resourcetype: Image
 title: lec28.jpg
+type: OCWImage
 uid: dc321976-a5a0-be09-b6d5-6ffb38b419aa
 ---

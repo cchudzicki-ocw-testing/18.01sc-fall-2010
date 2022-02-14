@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 68: Integral of sin^n(x) cos^m(x), Odd Exponents'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Trig Integrals and a Volume of Revolution
 uid: c095baf2-aff0-011a-c8f5-050c53c0e3ea

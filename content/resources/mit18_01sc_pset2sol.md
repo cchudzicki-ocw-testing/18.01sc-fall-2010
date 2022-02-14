@@ -4,7 +4,11 @@ description: 'This resource contains solutions of applications of differentiatio
   problems. '
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/f556ad6eaeb6efeeda61161d7a63c6d7_MIT18_01SC_pset2sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Problem Set 3
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SC_pset2sol.pdf
+type: OCWFile
 uid: f556ad6e-aeb6-efee-da61-161d7a63c6d7
 ---

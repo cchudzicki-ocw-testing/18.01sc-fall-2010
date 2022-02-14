@@ -4,7 +4,11 @@ description: This resource contains solutions for the problem statements related
   the exponential unction, its derivative and its inverse.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/579220ae8e0b138fc956ee127c4f9879_MIT18_01SCF10_ex17sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 17: The Exponential Function, its Derivative, and its Inverse'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex17sol.pdf
+type: OCWFile
 uid: 579220ae-8e0b-138f-c956-ee127c4f9879
 ---

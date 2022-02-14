@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 80: Parametric Curves'
+parent_type: CourseSection
 resourcetype: Image
 title: lec32.jpg
+type: OCWImage
 uid: 21aa699e-04a7-c957-6bb2-2daaf74dd9f1
 ---

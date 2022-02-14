@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 15: Implicit Differentiation and Inverse Functions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Derivative of the Arctan Function'
 uid: fadb7e63-6011-5142-1f1c-cddc71cb33d6

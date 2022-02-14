@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 17: The Exponential Function, its Derivative, and its Inverse'
+parent_type: CourseSection
 resourcetype: Image
 title: lec07.jpg
+type: OCWImage
 uid: baf60754-691c-7d20-8c3d-126904a1702b
 ---

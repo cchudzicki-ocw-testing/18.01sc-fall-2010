@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 8: Limits of Sine and Cosine'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 4: Derivative of sin(x), Geometric Proof'
 uid: b774c51d-6c65-41f2-5071-73f2a2ca4f9e

@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
+parent_type: CourseSection
 parent_uid: 82a633f3-2c2b-0be8-4fba-01f5e5741006
 title: 'Session 51: The Second Fundamental Theorem of Calculus'
+type: CourseSection
 uid: 9b4c6b77-5998-61b8-20e8-c804596b8c24
 ---
 

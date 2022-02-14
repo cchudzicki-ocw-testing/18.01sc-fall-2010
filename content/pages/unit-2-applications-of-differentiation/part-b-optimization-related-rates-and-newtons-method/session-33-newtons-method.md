@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Part B: Optimization, Related Rates and Newton''s Method'
+parent_type: CourseSection
 parent_uid: 7bd0936f-cddb-b454-b9e5-dab2884cc641
 title: 'Session 33: Newton''s Method'
+type: CourseSection
 uid: 08bcebd8-87ee-223a-f847-41f0fef4d632
 ---
 

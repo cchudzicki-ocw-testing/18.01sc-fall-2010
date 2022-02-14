@@ -4,7 +4,11 @@ description: 'This resource contains information related to derivative of e^xtan
   x. '
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/063490be6ab8c2d6367d57dfedb3afe5_MIT18_01SCF10_Ses21f.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 21: Review for Exam 1'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses21f.pdf
+type: OCWFile
 uid: 063490be-6ab8-c2d6-367d-57dfedb3afe5
 ---

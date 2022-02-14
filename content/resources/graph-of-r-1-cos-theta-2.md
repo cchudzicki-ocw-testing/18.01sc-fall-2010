@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 84: Polar Coordinates and Graphing'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Graph of r = 1 + cos (&theta;/2)
 uid: 6aa9e798-b5fc-e910-0576-4051cf752e3e

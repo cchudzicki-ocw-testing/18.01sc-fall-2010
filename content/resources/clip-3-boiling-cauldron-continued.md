@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 61: Integrals and Weighted Averages'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 3: Boiling Cauldron, Continued'
 uid: 95ffa0f7-25d9-000d-d2ca-1c936d63e896

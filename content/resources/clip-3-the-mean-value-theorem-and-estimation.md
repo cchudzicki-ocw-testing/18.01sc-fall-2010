@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 50: Combining the Fundamental Theorem and the Mean Value Theorem'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 3: The Mean Value Theorem and Estimation'
 uid: 09b631e8-98bb-2abc-d19c-2df04d1a0c63

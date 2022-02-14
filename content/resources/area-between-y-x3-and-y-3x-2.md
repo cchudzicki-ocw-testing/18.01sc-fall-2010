@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 56: Geometric Interpretation of Definite Integrals'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Area Between y=x3 and y=3x-2
 uid: ecedaefa-d64f-4369-b70d-1217b88cc0a9

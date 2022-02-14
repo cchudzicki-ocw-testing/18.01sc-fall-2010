@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 68: Integral of sin^n(x) cos^m(x), Odd Exponents'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Review of Trigonometric Identities'
 uid: e99b3a88-f6ef-4a63-454b-2367b37f131d

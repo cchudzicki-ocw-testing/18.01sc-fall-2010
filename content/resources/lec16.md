@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Session 39: Introduction to Differential Equations'
+parent_type: CourseSection
 resourcetype: Image
 title: lec16.jpg
+type: OCWImage
 uid: 26e7a559-ecaf-ccf8-9001-dd4a741667e4
 ---

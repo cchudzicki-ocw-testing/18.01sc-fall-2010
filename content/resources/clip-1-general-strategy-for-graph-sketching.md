@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 28: Sketching Graphs II - General Strategies'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: General Strategy for Graph Sketching'
 uid: c88b54fd-0cc4-6ca0-b8d0-b1637d0ae31c

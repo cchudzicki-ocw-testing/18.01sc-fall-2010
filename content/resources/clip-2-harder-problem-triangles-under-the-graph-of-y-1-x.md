@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 2: Examples of Derivatives'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 2: Harder Problem: Triangles Under the Graph   of y=1/x'
 uid: c3dd223f-c24c-1239-cca6-6b99eec8dd5e

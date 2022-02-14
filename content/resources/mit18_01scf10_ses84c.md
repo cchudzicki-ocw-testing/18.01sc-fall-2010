@@ -4,7 +4,11 @@ description: This resource contains informations related to polar coordinates an
   graphing.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/958d7ea5f505b8ed797787befee0e4a4_MIT18_01SCF10_Ses84c.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 84: Polar Coordinates and Graphing'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses84c.pdf
+type: OCWFile
 uid: 958d7ea5-f505-b8ed-7977-87befee0e4a4
 ---

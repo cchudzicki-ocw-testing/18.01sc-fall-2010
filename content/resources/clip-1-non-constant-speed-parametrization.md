@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 81: Examples Using Parametrized Curves'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Non-Constant Speed Parametrization'
 uid: a20e892c-2e73-087c-b790-1f6311bad2c5

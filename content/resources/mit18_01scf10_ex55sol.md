@@ -4,7 +4,11 @@ description: This resource contains solutions for the problem statements related
   second fundamental theorem.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/a1e1c55e6e45fe9e006fccdf88cfe6dc_MIT18_01SCF10_ex55sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Session 55: Creating New Functions Using the Second Fundamental Theorem'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex55sol.pdf
+type: OCWFile
 uid: a1e1c55e-6e45-fe9e-006f-ccdf88cfe6dc
 ---

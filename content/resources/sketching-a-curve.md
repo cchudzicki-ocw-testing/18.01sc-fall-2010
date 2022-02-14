@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 27: Sketching Graphs I - Polynomials and Rational Functions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Sketching a Curve
 uid: 1f6a47b6-b316-d3ac-7842-03c3af9b2a7e

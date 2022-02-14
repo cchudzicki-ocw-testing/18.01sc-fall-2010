@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 56: Geometric Interpretation of Definite Integrals'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Clip 2: Example: Area Between x = y2 and y = x \u2212 2"
 uid: 01bbfa59-1b57-8216-eced-3cb210524b9b

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Session 26: Using Quadratic Approximations'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 1: Approximating ln(1+x) and (1+x)r'
 uid: 82afe245-ad95-678a-fe99-15e13bcd6b81
