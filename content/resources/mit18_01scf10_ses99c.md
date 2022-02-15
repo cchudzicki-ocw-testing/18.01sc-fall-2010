@@ -8,6 +8,5 @@ parent_title: 'Session 99: Taylor''s Series, Continued'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses99c.pdf
-type: OCWFile
 uid: 242ad6a2-2b86-b207-99af-c7f207cd4271
 ---

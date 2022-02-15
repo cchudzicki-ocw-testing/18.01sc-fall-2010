@@ -9,6 +9,5 @@ parent_title: 'Session 23: Linear Approximation'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex23sol.pdf
-type: OCWFile
 uid: 3ec09c2e-10fb-07da-17fc-cb0097419b3c
 ---

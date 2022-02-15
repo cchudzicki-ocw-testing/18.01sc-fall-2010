@@ -9,6 +9,5 @@ parent_title: 'Session 97: Power Series'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex97sol.pdf
-type: OCWFile
 uid: ce95c611-1e8e-778a-8105-153518663d99
 ---

@@ -12,6 +12,5 @@ parent_title: 'Session 87: L''Hospital''s Rule'
 parent_type: CourseSection
 resourcetype: Image
 title: lec35.jpg
-type: OCWImage
 uid: 55c72ff3-854c-efed-0f4f-4406ca7aa7e0
 ---

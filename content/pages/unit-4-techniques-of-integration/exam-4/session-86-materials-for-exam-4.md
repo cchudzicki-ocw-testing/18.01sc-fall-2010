@@ -5,7 +5,6 @@ parent_title: Exam 4
 parent_type: CourseSection
 parent_uid: 6484ae59-4046-2fad-f99f-0d827e877e70
 title: 'Session 86: Materials for Exam 4'
-type: CourseSection
 uid: c0baf8c0-ea33-46ee-54ad-50f5dc690161
 ---
 

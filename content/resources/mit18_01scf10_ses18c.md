@@ -9,6 +9,5 @@ parent_title: 'Session 18: Derivatives of other Exponential Functions'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses18c.pdf
-type: OCWFile
 uid: daed1696-ddda-614b-210b-8c363bb749e4
 ---

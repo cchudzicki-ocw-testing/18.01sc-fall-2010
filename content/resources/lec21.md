@@ -12,6 +12,5 @@ parent_title: 'Session 54: The Second Fundamental Theorem and ln(x)'
 parent_type: CourseSection
 resourcetype: Image
 title: lec21.jpg
-type: OCWImage
 uid: 384e4ad3-29e2-f8c7-f23c-bb24b5b7e076
 ---

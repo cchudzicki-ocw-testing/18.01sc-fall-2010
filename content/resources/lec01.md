@@ -12,6 +12,5 @@ parent_title: 'Session 2: Examples of Derivatives'
 parent_type: CourseSection
 resourcetype: Image
 title: lec01.jpg
-type: OCWImage
 uid: 58f14f93-bc3b-108a-8146-24e35dd8e8d5
 ---

@@ -5,7 +5,6 @@ parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
 parent_type: CourseSection
 parent_uid: 82a633f3-2c2b-0be8-4fba-01f5e5741006
 title: 'Session 58: Volume of a Sphere, Revolving About x-axis'
-type: CourseSection
 uid: ea17c591-946b-ebd5-f9a9-889e9e6fa3ee
 ---
 

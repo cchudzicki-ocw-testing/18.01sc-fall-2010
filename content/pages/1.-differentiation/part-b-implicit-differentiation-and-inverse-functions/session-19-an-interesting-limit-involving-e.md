@@ -5,7 +5,6 @@ parent_title: 'Part B: Implicit Differentiation and Inverse Functions'
 parent_type: CourseSection
 parent_uid: ea455a8a-e7f0-daad-0b8d-5033112f5f5e
 title: 'Session 19: An Interesting Limit Involving e'
-type: CourseSection
 uid: 60442492-7fbe-5ea4-76fd-72662493105b
 ---
 

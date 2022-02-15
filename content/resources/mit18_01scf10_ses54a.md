@@ -9,6 +9,5 @@ parent_title: 'Session 54: The Second Fundamental Theorem and ln(x)'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses54a.pdf
-type: OCWFile
 uid: 911e69c6-5921-74f6-8657-67e3db049f35
 ---

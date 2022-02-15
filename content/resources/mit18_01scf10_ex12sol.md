@@ -9,6 +9,5 @@ parent_title: 'Session 12: Higher Derivatives'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex12sol.pdf
-type: OCWFile
 uid: c8a0089e-4888-f8d7-bdef-0fdd920c3760
 ---

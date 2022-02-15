@@ -5,7 +5,6 @@ parent_title: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equa
 parent_type: CourseSection
 parent_uid: cc849d58-0178-1635-e7d9-29c121e176fe
 title: 'Session 40: Separation of Variables'
-type: CourseSection
 uid: 6e674d24-154a-95a2-d7b4-dac2db7d6427
 ---
 

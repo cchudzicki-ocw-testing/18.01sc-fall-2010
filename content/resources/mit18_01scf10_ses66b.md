@@ -8,6 +8,5 @@ parent_title: 'Session 66: Review for Exam 3'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses66b.pdf
-type: OCWFile
 uid: 21d83f83-9bd5-0c9c-c132-f77d2bb4b093
 ---

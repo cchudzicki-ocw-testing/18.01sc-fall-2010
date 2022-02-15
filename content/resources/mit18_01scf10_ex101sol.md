@@ -9,6 +9,5 @@ parent_title: 'Session 101: Conclusion'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex101sol.pdf
-type: OCWFile
 uid: f5a44e75-4036-92c5-cfbf-7882a79d77d3
 ---

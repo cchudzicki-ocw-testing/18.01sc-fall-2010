@@ -8,6 +8,5 @@ parent_title: 'Session 67: Materials for Exam 3'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_exam3.pdf
-type: OCWFile
 uid: a24ae17a-1585-cc32-0e55-02b586fdc08d
 ---

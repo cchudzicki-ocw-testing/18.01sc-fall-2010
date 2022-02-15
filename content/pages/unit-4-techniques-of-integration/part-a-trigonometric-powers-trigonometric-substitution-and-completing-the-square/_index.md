@@ -6,7 +6,6 @@ parent_type: CourseSection
 parent_uid: 4da2f4d4-7b88-7d3f-0da6-a5405ecfef83
 title: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Completing the
   Square'
-type: CourseSection
 uid: 6b4ef500-53da-70f0-e865-4886100e09bb
 ---
 

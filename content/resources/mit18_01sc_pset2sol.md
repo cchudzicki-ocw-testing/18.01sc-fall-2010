@@ -9,6 +9,5 @@ parent_title: Problem Set 3
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SC_pset2sol.pdf
-type: OCWFile
 uid: f556ad6e-aeb6-efee-da61-161d7a63c6d7
 ---

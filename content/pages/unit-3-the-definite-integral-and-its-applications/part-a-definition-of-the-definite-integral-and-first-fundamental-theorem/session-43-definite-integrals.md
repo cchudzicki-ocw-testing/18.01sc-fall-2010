@@ -5,7 +5,6 @@ parent_title: 'Part A: Definition of the Definite Integral and First Fundamental
 parent_type: CourseSection
 parent_uid: 0b76caa8-a528-37fd-ba43-c151842bb90a
 title: 'Session 43: Definite Integrals'
-type: CourseSection
 uid: 5170b79f-5b62-ed3a-4d96-b27fc3edc468
 ---
 

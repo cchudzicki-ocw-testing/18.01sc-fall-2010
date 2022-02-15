@@ -12,6 +12,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: CHP_secant.jpg
-type: OCWImage
 uid: 7b739fdc-0a8f-b030-2fdb-e037fbaa89a3
 ---

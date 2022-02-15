@@ -8,6 +8,5 @@ parent_title: 'Session 38: Integration by Substitution'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses38c.pdf
-type: OCWFile
 uid: 308cc1bb-ff50-912c-deb1-f290f3754459
 ---

@@ -5,7 +5,6 @@ parent_title: Exam 3
 parent_type: CourseSection
 parent_uid: d008dd74-a84e-2b23-0239-ba6f9604c6fa
 title: 'Session 67: Materials for Exam 3'
-type: CourseSection
 uid: be018db8-3528-77b7-1152-e364bf12af4b
 ---
 

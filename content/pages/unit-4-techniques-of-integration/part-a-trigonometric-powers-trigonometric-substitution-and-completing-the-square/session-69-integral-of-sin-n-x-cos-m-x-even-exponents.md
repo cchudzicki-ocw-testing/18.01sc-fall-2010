@@ -6,7 +6,6 @@ parent_title: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Com
 parent_type: CourseSection
 parent_uid: 6b4ef500-53da-70f0-e865-4886100e09bb
 title: 'Session 69: Integral of sin^n(x) cos^m(x), Even Exponents'
-type: CourseSection
 uid: 60fd16b3-d72f-efca-7209-8904f15c0f02
 ---
 

@@ -9,6 +9,5 @@ parent_title: 'Session 58: Volume of a Sphere, Revolving About x-axis'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex58sol.pdf
-type: OCWFile
 uid: f7e181ed-0aa0-984e-be78-f91dbd6915ca
 ---

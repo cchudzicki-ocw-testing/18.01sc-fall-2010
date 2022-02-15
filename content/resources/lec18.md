@@ -12,6 +12,5 @@ parent_title: 'Session 43: Definite Integrals'
 parent_type: CourseSection
 resourcetype: Image
 title: lec18.jpg
-type: OCWImage
 uid: 9789e0ae-388b-395f-64d1-5b4e48d3eef7
 ---

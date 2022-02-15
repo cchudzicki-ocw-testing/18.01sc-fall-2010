@@ -5,7 +5,6 @@ parent_title: Exam 1
 parent_type: CourseSection
 parent_uid: ffc4ad3d-8715-27a0-ef73-8ec4809f2038
 title: 'Session 21: Review for Exam 1'
-type: CourseSection
 uid: 0bc7f9cd-2fd4-5990-1983-2c45df40e073
 ---
 

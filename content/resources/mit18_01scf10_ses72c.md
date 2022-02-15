@@ -8,6 +8,5 @@ parent_title: 'Session 72: Trig Substitution'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses72c.pdf
-type: OCWFile
 uid: a1cbe60f-c3cc-55d4-5290-9adb6756d1c5
 ---

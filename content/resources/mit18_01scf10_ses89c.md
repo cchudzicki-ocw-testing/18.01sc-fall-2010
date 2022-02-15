@@ -9,6 +9,5 @@ parent_title: 'Session 89: L''Hospital''s Rule and Rates of Growth'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses89c.pdf
-type: OCWFile
 uid: 9c9fed8a-05ff-aec6-b597-ca77756bb91f
 ---

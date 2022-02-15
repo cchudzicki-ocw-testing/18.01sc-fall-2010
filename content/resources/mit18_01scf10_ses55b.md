@@ -9,6 +9,5 @@ parent_title: 'Session 55: Creating New Functions Using the Second Fundamental T
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses55b.pdf
-type: OCWFile
 uid: bb84cc5d-0b92-6d6c-2c74-29adcd68d33a
 ---

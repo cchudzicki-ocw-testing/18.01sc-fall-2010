@@ -8,6 +8,5 @@ parent_title: 'Session 100: Operations on Power Series'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses100b.pdf
-type: OCWFile
 uid: 94c689d7-f7dc-061c-175e-5781df84a26b
 ---

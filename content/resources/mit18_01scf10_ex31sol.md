@@ -9,6 +9,5 @@ parent_title: 'Session 31: Related Rates'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex31sol.pdf
-type: OCWFile
 uid: 96600de0-e270-4042-5d88-b89d45a722a7
 ---

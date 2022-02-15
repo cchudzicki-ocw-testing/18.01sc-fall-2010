@@ -8,6 +8,5 @@ parent_title: 'Session 33: Newton''s Method'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex33prb.pdf
-type: OCWFile
 uid: 2947cca0-729b-9f04-26cd-848feaefb5e1
 ---

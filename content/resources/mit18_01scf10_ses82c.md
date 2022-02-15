@@ -8,6 +8,5 @@ parent_title: 'Session 82: Polar Coordinates'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses82c.pdf
-type: OCWFile
 uid: e47d40e3-addc-a4b7-f5df-82df71e748a9
 ---

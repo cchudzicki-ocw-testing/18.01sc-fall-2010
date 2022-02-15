@@ -5,7 +5,6 @@ parent_title: 1. Differentiation
 parent_type: CourseSection
 parent_uid: ff2c27ef-f0de-3981-0c3e-51a37548e568
 title: 'Part B: Implicit Differentiation and Inverse Functions'
-type: CourseSection
 uid: ea455a8a-e7f0-daad-0b8d-5033112f5f5e
 ---
 

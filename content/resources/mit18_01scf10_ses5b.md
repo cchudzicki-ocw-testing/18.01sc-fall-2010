@@ -8,6 +8,5 @@ parent_title: 'Session 5: Discontinuity'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses5b.pdf
-type: OCWFile
 uid: cc35d28a-f901-284e-0b33-360b172309b3
 ---

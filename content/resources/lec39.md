@@ -12,6 +12,5 @@ parent_title: 'Session 99: Taylor''s Series, Continued'
 parent_type: CourseSection
 resourcetype: Image
 title: lec39.jpg
-type: OCWImage
 uid: ad905e28-c967-bfd4-c6dd-c75e2714f761
 ---

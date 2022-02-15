@@ -8,6 +8,5 @@ parent_title: 'Session 76: Integration by Parts'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses76b.pdf
-type: OCWFile
 uid: 63e79bee-226f-88b7-aa27-482bbef0713f
 ---

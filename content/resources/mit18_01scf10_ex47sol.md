@@ -9,6 +9,5 @@ parent_title: 'Session 47: Introduction of the Fundamental Theorem of Calculus'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex47sol.pdf
-type: OCWFile
 uid: be1d786d-4103-9998-137b-fb36f7c7f8ef
 ---

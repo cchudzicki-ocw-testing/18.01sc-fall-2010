@@ -8,6 +8,5 @@ parent_title: 'Session 102: Materials for Final Exam'
 parent_type: CourseSection
 resourcetype: Document
 title: 18.01SC Final Exam
-type: OCWFile
 uid: 93c7107d-3349-0a89-2fdf-426e5033062e
 ---

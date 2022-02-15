@@ -9,6 +9,5 @@ parent_title: 'Session 30: Optimization Problems II'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex30sol.pdf
-type: OCWFile
 uid: 9b8a2a35-2943-50b3-87e2-4b0d8adfd632
 ---

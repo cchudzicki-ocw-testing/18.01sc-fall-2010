@@ -8,6 +8,5 @@ parent_title: 'Session 57: How to Calculate Volumes'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses57a.pdf
-type: OCWFile
 uid: db954590-72c8-0eb2-d2cb-db18ec0824fb
 ---

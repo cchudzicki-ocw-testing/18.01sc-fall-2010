@@ -8,6 +8,5 @@ parent_title: 'Session 11: Chain Rule'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses11a.pdf
-type: OCWFile
 uid: 66ba9836-b3c9-e991-38bc-8d766d913bc5
 ---

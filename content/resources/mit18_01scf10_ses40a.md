@@ -8,6 +8,5 @@ parent_title: 'Session 40: Separation of Variables'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses40a.pdf
-type: OCWFile
 uid: 731ad129-eaae-3c02-10b0-d3b71033bd57
 ---

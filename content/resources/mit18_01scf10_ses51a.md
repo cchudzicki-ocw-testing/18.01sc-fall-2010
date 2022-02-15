@@ -9,6 +9,5 @@ parent_title: 'Session 51: The Second Fundamental Theorem of Calculus'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses51a.pdf
-type: OCWFile
 uid: 2459faee-7ec3-308a-fd5c-ca2b95fad48e
 ---

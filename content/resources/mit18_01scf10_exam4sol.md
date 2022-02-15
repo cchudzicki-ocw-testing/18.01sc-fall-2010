@@ -8,6 +8,5 @@ parent_title: 'Session 86: Materials for Exam 4'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_exam4sol.pdf
-type: OCWFile
 uid: f1c8096b-6d2d-8021-709b-313e87991bd0
 ---

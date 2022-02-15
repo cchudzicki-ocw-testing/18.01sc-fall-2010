@@ -6,7 +6,6 @@ parent_title: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Com
 parent_type: CourseSection
 parent_uid: 6b4ef500-53da-70f0-e865-4886100e09bb
 title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
-type: CourseSection
 uid: 369ea1a0-42d3-4dea-55d0-7a2b967f59af
 ---
 

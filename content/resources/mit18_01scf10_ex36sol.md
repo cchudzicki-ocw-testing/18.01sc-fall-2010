@@ -9,6 +9,5 @@ parent_title: 'Session 36: Differentials'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex36sol.pdf
-type: OCWFile
 uid: 1013dffc-f4b0-57f9-d636-6960bc648f87
 ---

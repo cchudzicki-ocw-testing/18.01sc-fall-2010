@@ -5,7 +5,6 @@ parent_title: 2. Applications of Differentiation
 parent_type: CourseSection
 parent_uid: c2ca8a0d-20e5-96b1-1e2e-c5c48c7179ca
 title: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equations'
-type: CourseSection
 uid: cc849d58-0178-1635-e7d9-29c121e176fe
 ---
 

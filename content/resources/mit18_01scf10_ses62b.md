@@ -8,6 +8,5 @@ parent_title: 'Session 62: Integrals and Probability'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses62b.pdf
-type: OCWFile
 uid: 6a9f76ca-1bd1-827a-26b6-a6918f1e0128
 ---

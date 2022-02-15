@@ -8,6 +8,5 @@ parent_title: 'Session 6: Calculating Derivatives'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses6a.pdf
-type: OCWFile
 uid: 1a66390a-6b3d-7adb-2762-1ca4b0a2c534
 ---

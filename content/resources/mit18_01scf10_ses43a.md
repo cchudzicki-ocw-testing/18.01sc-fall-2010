@@ -8,6 +8,5 @@ parent_title: 'Session 43: Definite Integrals'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses43a.pdf
-type: OCWFile
 uid: afc9cd2d-3f0b-87d0-a313-b3188013a102
 ---

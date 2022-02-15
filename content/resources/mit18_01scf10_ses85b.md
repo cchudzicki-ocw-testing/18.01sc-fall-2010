@@ -8,6 +8,5 @@ parent_title: 'Session 85: Review for Exam 4'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses85b.pdf
-type: OCWFile
 uid: f0894469-b98e-99a2-09ff-44ebf8d87cfa
 ---

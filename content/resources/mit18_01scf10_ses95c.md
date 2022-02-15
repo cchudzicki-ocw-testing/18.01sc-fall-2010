@@ -8,6 +8,5 @@ parent_title: 'Session 95: Series Comparison'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses95c.pdf
-type: OCWFile
 uid: a960e6b8-441b-5e3e-c8ac-c385397c2fd6
 ---

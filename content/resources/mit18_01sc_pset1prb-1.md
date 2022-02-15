@@ -8,6 +8,5 @@ parent_title: Problem Set 2
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SC_pset1prb.pdf
-type: OCWFile
 uid: 87d9380b-a7de-44cb-eaca-3b655844a1d4
 ---

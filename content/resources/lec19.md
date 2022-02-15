@@ -12,6 +12,5 @@ parent_title: 'Session 47: Introduction of the Fundamental Theorem of Calculus'
 parent_type: CourseSection
 resourcetype: Image
 title: lec19.jpg
-type: OCWImage
 uid: 78f04b1b-cab2-87c7-0810-9748b73f010c
 ---

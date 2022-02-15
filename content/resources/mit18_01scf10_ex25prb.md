@@ -9,6 +9,5 @@ parent_title: 'Session 25: Introduction to Quadratic Approximation'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex25prb.pdf
-type: OCWFile
 uid: 782c3033-93c5-b39e-3a34-f51d315441b7
 ---

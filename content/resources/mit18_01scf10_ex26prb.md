@@ -9,6 +9,5 @@ parent_title: 'Session 26: Using Quadratic Approximations'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex26prb.pdf
-type: OCWFile
 uid: dfcfe7b2-7c37-3626-da08-816b84885cdc
 ---

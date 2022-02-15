@@ -8,6 +8,5 @@ parent_title: 'Session 32: Ring on a String'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses32a.pdf
-type: OCWFile
 uid: 80f8e2c7-e7bc-cc45-cf76-7e5b917331e7
 ---

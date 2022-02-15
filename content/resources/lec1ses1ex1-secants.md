@@ -8,6 +8,5 @@ parent_title: 'Session 1: Introduction to Derivatives'
 parent_type: CourseSection
 resourcetype: Document
 title: lec1ses1ex1-secants.pdf
-type: OCWFile
 uid: 68a59e6c-2e77-7ee2-9a92-36d54f779a64
 ---

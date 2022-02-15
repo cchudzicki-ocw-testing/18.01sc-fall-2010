@@ -9,6 +9,5 @@ parent_title: 'Session 16: The Derivative of a^x'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex16sol.pdf
-type: OCWFile
 uid: 41a61f85-8e06-6ddc-b402-f34c0e4697af
 ---

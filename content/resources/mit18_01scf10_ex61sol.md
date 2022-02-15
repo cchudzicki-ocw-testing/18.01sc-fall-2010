@@ -9,6 +9,5 @@ parent_title: 'Session 61: Integrals and Weighted Averages'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex61sol.pdf
-type: OCWFile
 uid: e4915606-02af-b9eb-6620-1df662246a52
 ---

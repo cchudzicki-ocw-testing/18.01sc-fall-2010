@@ -12,6 +12,5 @@ parent_title: 'Session 16: The Derivative of a^x'
 parent_type: CourseSection
 resourcetype: Image
 title: lec06.jpg
-type: OCWImage
 uid: 3a99c48b-9975-9330-100c-d6c1ae21ec62
 ---

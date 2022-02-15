@@ -9,6 +9,5 @@ parent_title: 'Session 15: Implicit Differentiation and Inverse Functions'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses15b.pdf
-type: OCWFile
 uid: 37028101-f134-cc6e-0e41-572fdc6735d8
 ---

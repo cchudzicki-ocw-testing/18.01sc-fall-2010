@@ -9,6 +9,5 @@ parent_title: 'Session 27: Sketching Graphs I - Polynomials and Rational Functio
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses27b.pdf
-type: OCWFile
 uid: e30fefcc-2e25-2965-1ee6-eebc8d7f664a
 ---

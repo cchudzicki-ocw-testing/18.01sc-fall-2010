@@ -5,7 +5,6 @@ parent_title: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equa
 parent_type: CourseSection
 parent_uid: cc849d58-0178-1635-e7d9-29c121e176fe
 title: 'Session 38: Integration by Substitution'
-type: CourseSection
 uid: def23901-ebba-d92e-a90a-23199cbba444
 ---
 

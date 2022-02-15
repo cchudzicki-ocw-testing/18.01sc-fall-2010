@@ -8,6 +8,5 @@ parent_title: 'Session 4: Limits and Continuity'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses4a.pdf
-type: OCWFile
 uid: 7055d8a3-31cd-9aef-8519-3146a52943b2
 ---

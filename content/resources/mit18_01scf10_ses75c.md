@@ -8,6 +8,5 @@ parent_title: 'Session 75: Advanced Partial Fractions'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses75c.pdf
-type: OCWFile
 uid: cff6b742-7fb9-0662-72f6-5361fa59aa83
 ---

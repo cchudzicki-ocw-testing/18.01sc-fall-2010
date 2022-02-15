@@ -8,6 +8,5 @@ parent_title: 'Session 2: Examples of Derivatives'
 parent_type: CourseSection
 resourcetype: Other
 title: Daimp.jar
-type: OCWFile
 uid: fb921d37-9bc2-ce77-8fdf-b143ad0c0dec
 ---

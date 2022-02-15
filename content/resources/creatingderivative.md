@@ -8,6 +8,5 @@ parent_title: 'Session 2: Examples of Derivatives'
 parent_type: CourseSection
 resourcetype: Other
 title: CreatingDerivative.jar
-type: OCWFile
 uid: aec521b6-e664-d086-06a5-f8043b56d01f
 ---

@@ -9,6 +9,5 @@ parent_title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses71d.pdf
-type: OCWFile
 uid: b87628b9-43b8-b9eb-87f9-c355091b080e
 ---

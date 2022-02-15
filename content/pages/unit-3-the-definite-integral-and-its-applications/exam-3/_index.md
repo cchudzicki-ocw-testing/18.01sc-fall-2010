@@ -5,7 +5,6 @@ parent_title: 3. The Definite Integral and its Applications
 parent_type: CourseSection
 parent_uid: 4c201b00-a047-0284-ebd6-c546e0cc59ab
 title: Exam 3
-type: CourseSection
 uid: d008dd74-a84e-2b23-0239-ba6f9604c6fa
 ---
 

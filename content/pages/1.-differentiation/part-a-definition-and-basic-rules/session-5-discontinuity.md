@@ -5,7 +5,6 @@ parent_title: 'Part A: Definition and Basic Rules'
 parent_type: CourseSection
 parent_uid: 962d1716-11a1-01d4-9f86-5818d41217eb
 title: 'Session 5: Discontinuity'
-type: CourseSection
 uid: d0bc8735-c3a4-50ca-5aad-8ed8059d679d
 ---
 

@@ -8,6 +8,5 @@ parent_title: 'Session 50: Combining the Fundamental Theorem and the Mean Value 
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex50prb.pdf
-type: OCWFile
 uid: a7bb8a35-dacf-44c1-ae34-b89143656f82
 ---

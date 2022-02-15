@@ -5,7 +5,6 @@ parent_title: Exam 2
 parent_type: CourseSection
 parent_uid: 2e8fc5a2-7f94-964a-4603-c27ff84434fc
 title: 'Session 42: Materials for Exam 2'
-type: CourseSection
 uid: 786c8726-3a74-59b9-e1df-bbb39f339887
 ---
 

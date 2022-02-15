@@ -12,6 +12,5 @@ parent_title: 'Session 29: Optimization Problems'
 parent_type: CourseSection
 resourcetype: Image
 title: lec12.jpg
-type: OCWImage
 uid: b5b8f011-f9d6-d445-da16-1f00e58f9d5a
 ---

@@ -8,6 +8,5 @@ parent_title: 'Session 24: Examples of Linear Approximation'
 parent_type: CourseSection
 resourcetype: Document
 title: lec9ses2ex1-linearprod.pdf
-type: OCWFile
 uid: f9559e03-93ec-511d-d940-23a5ea8b3aad
 ---

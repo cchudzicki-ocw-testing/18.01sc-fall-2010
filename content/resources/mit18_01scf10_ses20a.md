@@ -8,6 +8,5 @@ parent_title: 'Session 20: Hyperbolic Trig Functions'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses20a.pdf
-type: OCWFile
 uid: ce3200a4-eb0a-928b-f282-ed6bb833ae27
 ---

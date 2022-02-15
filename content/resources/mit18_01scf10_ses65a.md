@@ -8,6 +8,5 @@ parent_title: 'Session 65: Bell Curve, Conclusion'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses65a.pdf
-type: OCWFile
 uid: 8f010974-972c-100f-3627-d4d7d55aca35
 ---

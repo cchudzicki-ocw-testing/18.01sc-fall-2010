@@ -9,6 +9,5 @@ parent_title: 'Session 88: Examples of L''Hospital''s Rule'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses88a.pdf
-type: OCWFile
 uid: ee82d756-3622-fa5e-8180-d2938d4c62e7
 ---

@@ -5,7 +5,6 @@ parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
 parent_type: CourseSection
 parent_uid: 82a633f3-2c2b-0be8-4fba-01f5e5741006
 title: 'Session 53: New Functions From Old'
-type: CourseSection
 uid: 28016eb0-0515-039e-bda8-eb0f6b6ddb58
 ---
 

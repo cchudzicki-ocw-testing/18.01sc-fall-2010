@@ -8,6 +8,5 @@ parent_title: 'Session 41: Review for Exam 2'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses41a.pdf
-type: OCWFile
 uid: e90f948a-7163-116b-10b8-f9a6c09fbf2e
 ---

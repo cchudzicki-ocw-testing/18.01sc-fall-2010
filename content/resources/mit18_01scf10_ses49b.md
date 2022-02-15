@@ -9,6 +9,5 @@ parent_title: 'Session 49: Applications of the Fundamental Theorem of Calculus'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses49b.pdf
-type: OCWFile
 uid: 08476c85-c3ec-5a3f-e693-48e0f00212a6
 ---

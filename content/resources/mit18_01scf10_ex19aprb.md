@@ -9,6 +9,5 @@ parent_title: 'Session 19: An Interesting Limit Involving e'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex19aprb.pdf
-type: OCWFile
 uid: cd0bdfcd-fd8b-d1ab-482e-dfc795431c30
 ---

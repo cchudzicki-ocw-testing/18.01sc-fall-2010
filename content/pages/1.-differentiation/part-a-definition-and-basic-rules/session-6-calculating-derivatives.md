@@ -5,7 +5,6 @@ parent_title: 'Part A: Definition and Basic Rules'
 parent_type: CourseSection
 parent_uid: 962d1716-11a1-01d4-9f86-5818d41217eb
 title: 'Session 6: Calculating Derivatives'
-type: CourseSection
 uid: a5033660-4c88-798f-9066-2c641ab35802
 ---
 

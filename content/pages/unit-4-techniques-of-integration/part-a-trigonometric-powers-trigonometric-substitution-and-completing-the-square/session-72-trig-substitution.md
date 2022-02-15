@@ -6,7 +6,6 @@ parent_title: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Com
 parent_type: CourseSection
 parent_uid: 6b4ef500-53da-70f0-e865-4886100e09bb
 title: 'Session 72: Trig Substitution'
-type: CourseSection
 uid: 9894378c-e8db-9017-3778-fc7a13cad022
 ---
 

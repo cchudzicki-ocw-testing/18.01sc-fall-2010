@@ -12,6 +12,5 @@ parent_title: 'Session 64: Numerical Integration, Continued'
 parent_type: CourseSection
 resourcetype: Image
 title: lec25.jpg
-type: OCWImage
 uid: 6ec6f572-68c0-140d-1479-0876ca96fcf2
 ---

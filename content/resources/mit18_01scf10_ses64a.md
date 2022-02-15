@@ -8,6 +8,5 @@ parent_title: 'Session 64: Numerical Integration, Continued'
 parent_type: CourseSection
 resourcetype: Document
 title: mMIT18_01SCF10_Ses64a.pdf
-type: OCWFile
 uid: 85fe5284-1cc9-5fcf-bd6c-b13d068be87e
 ---

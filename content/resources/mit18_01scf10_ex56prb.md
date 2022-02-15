@@ -8,6 +8,5 @@ parent_title: 'Session 56: Geometric Interpretation of Definite Integrals'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex56prb.pdf
-type: OCWFile
 uid: a57dc0ba-7d7d-f8fe-c4c7-bb53acc3f9d1
 ---

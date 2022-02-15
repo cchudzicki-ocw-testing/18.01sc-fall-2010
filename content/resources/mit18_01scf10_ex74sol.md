@@ -8,6 +8,5 @@ parent_title: 'Session 74: Integration by Partial Fractions'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex74sol.pdf
-type: OCWFile
 uid: b1dc48ac-3e57-67fc-71ca-4d887ae9cbbc
 ---

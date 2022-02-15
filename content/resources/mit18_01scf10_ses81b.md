@@ -9,6 +9,5 @@ parent_title: 'Session 81: Examples Using Parametrized Curves'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses81b.pdf
-type: OCWFile
 uid: 1fde91f9-aaff-3f81-a3e2-26a634fbcb73
 ---

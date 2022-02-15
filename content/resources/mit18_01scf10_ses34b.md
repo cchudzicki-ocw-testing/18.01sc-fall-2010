@@ -8,6 +8,5 @@ parent_title: 'Session 34: Introduction to the Mean Value Theorem'
 parent_type: CourseSection
 resourcetype: Document
 title: hiMIT18_01SCF10_Ses34b.pdf
-type: OCWFile
 uid: 70b03126-d02c-df5b-87bc-59e6e515bc73
 ---

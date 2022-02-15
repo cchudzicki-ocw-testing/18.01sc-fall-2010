@@ -5,7 +5,6 @@ parent_title: 'Part A: Definition of the Definite Integral and First Fundamental
 parent_type: CourseSection
 parent_uid: 0b76caa8-a528-37fd-ba43-c151842bb90a
 title: 'Session 49: Applications of the Fundamental Theorem of Calculus'
-type: CourseSection
 uid: bd925f6f-8a78-fde6-be8c-709ded2799e9
 ---
 

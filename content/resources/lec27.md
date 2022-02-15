@@ -12,6 +12,5 @@ parent_title: 'Session 68: Integral of sin^n(x) cos^m(x), Odd Exponents'
 parent_type: CourseSection
 resourcetype: Image
 title: lec27.jpg
-type: OCWImage
 uid: 6fca20f3-8312-e8b7-f011-928f40f96265
 ---

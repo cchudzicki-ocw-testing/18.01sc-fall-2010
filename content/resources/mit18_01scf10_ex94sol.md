@@ -9,6 +9,5 @@ parent_title: 'Session 94: Infinite Series'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex94sol.pdf
-type: OCWFile
 uid: 63683785-ad83-4a6a-8b6d-cb66fcee9066
 ---

@@ -9,6 +9,5 @@ parent_title: 'Session 78: Computing the Length of a Curve'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex78prb.pdf
-type: OCWFile
 uid: 812dce70-5c90-5047-b155-5acc89547e85
 ---

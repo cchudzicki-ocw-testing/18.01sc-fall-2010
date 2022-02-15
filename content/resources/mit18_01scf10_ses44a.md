@@ -8,6 +8,5 @@ parent_title: 'Session 44: Adding Areas of Rectangles'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses44a.pdf
-type: OCWFile
 uid: 3cdcdfc7-dedd-0c6b-31c3-d76a3df67841
 ---

@@ -9,6 +9,5 @@ parent_title: 'Session 7: Derivatives of Sine and Cosine'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex07sol.pdf
-type: OCWFile
 uid: 62ed1c8d-2b1d-2802-6a66-480a7ce55a42
 ---

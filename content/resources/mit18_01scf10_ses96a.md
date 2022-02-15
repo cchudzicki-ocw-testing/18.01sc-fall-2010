@@ -9,6 +9,5 @@ parent_title: 'Session 96: Stacking Blocks'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses96a.pdf
-type: OCWFile
 uid: aea2c390-fd7b-c5a7-725a-b5025f2779e8
 ---

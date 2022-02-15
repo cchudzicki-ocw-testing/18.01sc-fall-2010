@@ -9,6 +9,5 @@ parent_title: 'Session 90: Advanced Examples of L''Hospital''s Rule'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses90a.pdf
-type: OCWFile
 uid: a836267e-97f4-50ae-2bc7-588b73a9ffc6
 ---

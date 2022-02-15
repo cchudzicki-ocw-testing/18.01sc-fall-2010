@@ -5,7 +5,6 @@ parent_title: 'Part A: Approximation and Curve Sketching'
 parent_type: CourseSection
 parent_uid: 8c88ae04-1747-5c6d-ae97-e569853bfd9e
 title: 'Session 28: Sketching Graphs II - General Strategies'
-type: CourseSection
 uid: 445cf54d-4e72-02de-2ae3-332dadd36def
 ---
 

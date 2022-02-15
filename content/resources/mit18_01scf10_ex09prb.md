@@ -8,6 +8,5 @@ parent_title: 'Session 9: Product Rule'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex09prb.pdf
-type: OCWFile
 uid: 83e5279a-611d-9d3f-5231-4a5176c34df8
 ---

@@ -8,6 +8,5 @@ parent_title: 'Session 77: Volume of a Wine Glass'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses77b.pdf
-type: OCWFile
 uid: 0e7db8a3-1431-750b-188e-8750d34ef8d4
 ---

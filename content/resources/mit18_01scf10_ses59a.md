@@ -9,6 +9,5 @@ parent_title: 'Session 59: Volume of a Parabaloid, Revolving About y-axis'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses59a.pdf
-type: OCWFile
 uid: f0b19384-7ca8-f817-a239-ad783b26db15
 ---

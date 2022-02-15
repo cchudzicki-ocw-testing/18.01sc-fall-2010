@@ -9,6 +9,5 @@ parent_title: 'Session 13: Implicit Differentiation'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex13sol.pdf
-type: OCWFile
 uid: 713bd74e-2658-227f-ad93-74a885208c23
 ---

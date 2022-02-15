@@ -9,6 +9,5 @@ parent_title: 'Session 48: The Fundamental Theorem of Calculus'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex48prb.pdf
-type: OCWFile
 uid: f1fa0c83-7890-f510-6d02-accbc4b1e610
 ---

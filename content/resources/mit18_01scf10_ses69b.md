@@ -9,6 +9,5 @@ parent_title: 'Session 69: Integral of sin^n(x) cos^m(x), Even Exponents'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses69b.pdf
-type: OCWFile
 uid: c0494219-71b1-6bfe-e168-28e88ea87496
 ---

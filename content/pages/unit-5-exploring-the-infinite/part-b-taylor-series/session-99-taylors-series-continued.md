@@ -5,7 +5,6 @@ parent_title: 'Part B: Taylor Series'
 parent_type: CourseSection
 parent_uid: 1c9b9277-6c16-c587-013d-2f3b4e9b94a0
 title: 'Session 99: Taylor''s Series, Continued'
-type: CourseSection
 uid: 9714534f-bc62-1758-9e4a-b69f5ad147a4
 ---
 

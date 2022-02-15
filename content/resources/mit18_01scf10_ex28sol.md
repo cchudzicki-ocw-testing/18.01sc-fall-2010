@@ -9,6 +9,5 @@ parent_title: 'Session 28: Sketching Graphs II - General Strategies'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex28sol.pdf
-type: OCWFile
 uid: e222d667-734a-7909-e218-f4fdcafe553e
 ---

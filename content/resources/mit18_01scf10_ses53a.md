@@ -8,6 +8,5 @@ parent_title: 'Session 53: New Functions From Old'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses53a.pdf
-type: OCWFile
 uid: 357771ae-0a60-838d-757b-2e062650fe09
 ---

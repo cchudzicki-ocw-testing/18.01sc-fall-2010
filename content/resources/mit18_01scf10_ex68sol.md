@@ -9,6 +9,5 @@ parent_title: 'Session 68: Integral of sin^n(x) cos^m(x), Odd Exponents'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex68sol.pdf
-type: OCWFile
 uid: 64eaee7a-99c4-48ef-616d-e3f083c487b9
 ---

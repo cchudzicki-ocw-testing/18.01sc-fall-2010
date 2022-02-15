@@ -8,6 +8,5 @@ parent_title: 'Session 87: L''Hospital''s Rule'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses87a.pdf
-type: OCWFile
 uid: 1272ef66-8d6d-89eb-a3a6-c00286240acb
 ---

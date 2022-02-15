@@ -8,6 +8,5 @@ parent_title: 'Session 8: Limits of Sine and Cosine'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses8b.pdf
-type: OCWFile
 uid: 71f2919b-7379-8dcb-3005-a14d6e9f3a02
 ---

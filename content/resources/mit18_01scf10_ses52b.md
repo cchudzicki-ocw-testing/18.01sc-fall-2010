@@ -9,6 +9,5 @@ parent_title: 'Session 52: Proving the Fundamental Theorem of Calculus'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses52b.pdf
-type: OCWFile
 uid: e5e4813a-c3a0-b21f-6153-2842c7ce8a8c
 ---

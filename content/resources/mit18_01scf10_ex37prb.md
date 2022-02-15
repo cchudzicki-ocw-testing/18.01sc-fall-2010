@@ -8,6 +8,5 @@ parent_title: 'Session 37: Antiderivatives'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex37prb.pdf
-type: OCWFile
 uid: c083a2a2-def4-1a9c-22a0-f09e4c1fa623
 ---

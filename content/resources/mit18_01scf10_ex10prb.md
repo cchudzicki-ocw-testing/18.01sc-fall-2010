@@ -8,6 +8,5 @@ parent_title: 'Session 10: Quotient Rule'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex10prb.pdf
-type: OCWFile
 uid: 7f48447a-fdcb-2280-3f56-8bf5653707c5
 ---

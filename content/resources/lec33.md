@@ -12,6 +12,5 @@ parent_title: 'Session 83: Polar Coordinates, Continued'
 parent_type: CourseSection
 resourcetype: Image
 title: lec33.jpg
-type: OCWImage
 uid: c37d704d-f50f-cdf2-03ae-525e549f8c49
 ---

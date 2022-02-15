@@ -8,6 +8,5 @@ parent_title: 'Session 45: Some Easy Integrals'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses45a.pdf
-type: OCWFile
 uid: c60ca162-9f9a-9058-fe3b-6fe3e114fa6b
 ---

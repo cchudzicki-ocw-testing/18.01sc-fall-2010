@@ -8,6 +8,5 @@ parent_title: 'Session 22: Materials for Exam 1'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_exam1.pdf
-type: OCWFile
 uid: 88726324-8c3f-6612-8de1-205f06993524
 ---

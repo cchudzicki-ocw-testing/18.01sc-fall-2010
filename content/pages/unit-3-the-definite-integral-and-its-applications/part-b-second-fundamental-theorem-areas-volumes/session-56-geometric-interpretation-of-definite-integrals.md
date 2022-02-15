@@ -5,7 +5,6 @@ parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
 parent_type: CourseSection
 parent_uid: 82a633f3-2c2b-0be8-4fba-01f5e5741006
 title: 'Session 56: Geometric Interpretation of Definite Integrals'
-type: CourseSection
 uid: ab02e80b-2f16-511d-8148-1be8277cb20d
 ---
 

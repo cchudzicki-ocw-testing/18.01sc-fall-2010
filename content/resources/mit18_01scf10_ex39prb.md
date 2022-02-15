@@ -8,6 +8,5 @@ parent_title: 'Session 39: Introduction to Differential Equations'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex39prb.pdf
-type: OCWFile
 uid: f84f0433-0523-2520-221e-776274e80597
 ---

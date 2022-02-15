@@ -5,7 +5,6 @@ parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
 parent_type: CourseSection
 parent_uid: 82a633f3-2c2b-0be8-4fba-01f5e5741006
 title: 'Session 54: The Second Fundamental Theorem and ln(x)'
-type: CourseSection
 uid: 435c91b0-8acc-9a35-fc07-48ce22a11bfe
 ---
 

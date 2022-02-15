@@ -5,7 +5,6 @@ parent_title: 'Part B: Taylor Series'
 parent_type: CourseSection
 parent_uid: 1c9b9277-6c16-c587-013d-2f3b4e9b94a0
 title: 'Session 96: Stacking Blocks'
-type: CourseSection
 uid: 67af8950-4ffe-36b5-70ec-6996515b988c
 ---
 

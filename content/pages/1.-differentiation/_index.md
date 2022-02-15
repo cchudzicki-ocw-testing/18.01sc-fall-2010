@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 1. Differentiation
-type: CourseSection
 uid: ff2c27ef-f0de-3981-0c3e-51a37548e568
 ---
 

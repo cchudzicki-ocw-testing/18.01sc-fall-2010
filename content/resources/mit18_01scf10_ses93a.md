@@ -9,6 +9,5 @@ parent_title: 'Session 93: Indefinite Integrals and Singularities'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses93a.pdf
-type: OCWFile
 uid: 7bb94763-6ab1-8b08-8745-7c00209ab38e
 ---

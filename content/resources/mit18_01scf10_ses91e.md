@@ -8,6 +8,5 @@ parent_title: 'Session 91: Improper Integrals'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses91e.pdf
-type: OCWFile
 uid: ff71b3c9-3989-57ec-a438-64994760b4a7
 ---

@@ -8,6 +8,5 @@ parent_title: 'Session 21: Review for Exam 1'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses21c.pdf
-type: OCWFile
 uid: f8e05f6f-6d7f-75b5-4b6d-990eaa667901
 ---

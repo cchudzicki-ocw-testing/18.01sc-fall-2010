@@ -12,6 +12,5 @@ parent_title: 'Session 27: Sketching Graphs I - Polynomials and Rational Functio
 parent_type: CourseSection
 resourcetype: Image
 title: lec11.jpg
-type: OCWImage
 uid: d6b63734-43cf-f09c-f844-ad014a043c8c
 ---

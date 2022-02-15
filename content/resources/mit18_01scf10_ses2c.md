@@ -8,6 +8,5 @@ parent_title: 'Session 2: Examples of Derivatives'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses2c.pdf
-type: OCWFile
 uid: a0ac1e40-88a8-00a5-4a16-839494fbd16e
 ---

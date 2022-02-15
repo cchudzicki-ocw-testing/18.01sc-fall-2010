@@ -8,6 +8,5 @@ parent_title: 'Session 34: Introduction to the Mean Value Theorem'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses34a.pdf
-type: OCWFile
 uid: e880603e-c136-cc8e-baa6-8c7d72c22024
 ---

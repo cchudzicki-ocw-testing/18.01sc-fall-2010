@@ -8,6 +8,5 @@ parent_title: 'Session 73: Completing the Square'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses73a.pdf
-type: OCWFile
 uid: fb9139b8-1f46-3eaa-6764-2bcc598c620b
 ---

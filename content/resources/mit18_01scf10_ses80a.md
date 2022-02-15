@@ -8,6 +8,5 @@ parent_title: 'Session 80: Parametric Curves'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses80a.pdf
-type: OCWFile
 uid: 8dfde374-0446-696d-8d98-f6ce2d33de03
 ---

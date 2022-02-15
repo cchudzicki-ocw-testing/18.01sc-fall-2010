@@ -8,6 +8,5 @@ parent_title: 'Session 60: Integrals and Averages'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex60prb.pdf
-type: OCWFile
 uid: 505691d6-7652-838e-a715-66b872225032
 ---

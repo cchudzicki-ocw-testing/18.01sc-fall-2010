@@ -5,7 +5,6 @@ parent_title: 'Part C: Parametric Equations and Polar Coordinates'
 parent_type: CourseSection
 parent_uid: f19e1f54-f348-a68a-7308-89ee63f5b9d6
 title: Problem Set 11
-type: CourseSection
 uid: b4238780-f29b-563a-34b0-5363b1ac982c
 ---
 

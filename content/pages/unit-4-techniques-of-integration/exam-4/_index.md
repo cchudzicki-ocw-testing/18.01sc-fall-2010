@@ -5,7 +5,6 @@ parent_title: 4. Techniques of Integration
 parent_type: CourseSection
 parent_uid: 4da2f4d4-7b88-7d3f-0da6-a5405ecfef83
 title: Exam 4
-type: CourseSection
 uid: 6484ae59-4046-2fad-f99f-0d827e877e70
 ---
 

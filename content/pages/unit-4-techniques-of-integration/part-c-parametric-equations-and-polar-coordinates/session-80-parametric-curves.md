@@ -5,7 +5,6 @@ parent_title: 'Part C: Parametric Equations and Polar Coordinates'
 parent_type: CourseSection
 parent_uid: f19e1f54-f348-a68a-7308-89ee63f5b9d6
 title: 'Session 80: Parametric Curves'
-type: CourseSection
 uid: b58d1c03-b5e7-2b4f-c2ef-553cda5d94b7
 ---
 

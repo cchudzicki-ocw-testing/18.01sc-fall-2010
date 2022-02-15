@@ -9,6 +9,5 @@ parent_title: 'Session 79: Surface Area'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex79sol.pdf
-type: OCWFile
 uid: 95219df9-dd0e-cab0-4b11-70fd84348fc1
 ---

@@ -8,6 +8,5 @@ parent_title: 'Session 46: Riemann Sums'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex46prb.pdf
-type: OCWFile
 uid: e79beab6-8e0b-64a7-b4bd-5ae06ee74313
 ---

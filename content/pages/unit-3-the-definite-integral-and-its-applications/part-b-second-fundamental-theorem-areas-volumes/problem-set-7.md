@@ -5,7 +5,6 @@ parent_title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
 parent_type: CourseSection
 parent_uid: 82a633f3-2c2b-0be8-4fba-01f5e5741006
 title: Problem Set 7
-type: CourseSection
 uid: fdbe350c-a59a-fe09-833c-9efd91b52a3f
 ---
 

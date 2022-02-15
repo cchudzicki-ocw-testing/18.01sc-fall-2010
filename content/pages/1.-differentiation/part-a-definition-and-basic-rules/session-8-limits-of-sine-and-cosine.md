@@ -5,7 +5,6 @@ parent_title: 'Part A: Definition and Basic Rules'
 parent_type: CourseSection
 parent_uid: 962d1716-11a1-01d4-9f86-5818d41217eb
 title: 'Session 8: Limits of Sine and Cosine'
-type: CourseSection
 uid: efc851d8-16c4-5817-0838-c60287c6388d
 ---
 

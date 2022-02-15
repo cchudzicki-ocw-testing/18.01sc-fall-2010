@@ -6,7 +6,6 @@ parent_title: 'Part B: Partial Fractions, Integration by Parts, Arc Length, and 
 parent_type: CourseSection
 parent_uid: be9d889d-28b5-7df1-a77b-bd83f2f4f214
 title: 'Session 75: Advanced Partial Fractions'
-type: CourseSection
 uid: b2d99644-53e8-9357-525c-798ec9a77daf
 ---
 

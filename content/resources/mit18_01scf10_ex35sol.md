@@ -9,6 +9,5 @@ parent_title: 'Session 35: Using the Mean Value Theorem'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_ex35sol.pdf
-type: OCWFile
 uid: 0779a559-464b-16a0-18a0-508a08449470
 ---

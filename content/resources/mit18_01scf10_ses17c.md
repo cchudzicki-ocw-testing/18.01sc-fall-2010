@@ -9,6 +9,5 @@ parent_title: 'Session 17: The Exponential Function, its Derivative, and its Inv
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses17c.pdf
-type: OCWFile
 uid: defa7c81-5e8c-8471-c6dd-d99a9d0d730a
 ---

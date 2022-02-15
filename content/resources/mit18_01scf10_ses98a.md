@@ -8,6 +8,5 @@ parent_title: 'Session 98: Taylor''s Series'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses98a.pdf
-type: OCWFile
 uid: 1f7a71d6-2dea-7f3b-637d-aedb410854a0
 ---

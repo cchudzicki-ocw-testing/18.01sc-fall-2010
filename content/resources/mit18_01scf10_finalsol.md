@@ -8,6 +8,5 @@ parent_title: 'Session 102: Materials for Final Exam'
 parent_type: CourseSection
 resourcetype: Document
 title: 18.01SC Final Exam Solutions
-type: OCWFile
 uid: bbbf0528-6af4-bd70-5af3-25080bea0e23
 ---

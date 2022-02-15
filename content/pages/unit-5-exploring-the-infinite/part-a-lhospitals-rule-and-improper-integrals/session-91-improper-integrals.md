@@ -5,7 +5,6 @@ parent_title: 'Part A: L''Hospital''s Rule and Improper Integrals'
 parent_type: CourseSection
 parent_uid: 70119623-65c7-a7e3-1179-a33dc8e95275
 title: 'Session 91: Improper Integrals'
-type: CourseSection
 uid: 3fa26881-9900-b3ee-4bc8-d590323f17dc
 ---
 

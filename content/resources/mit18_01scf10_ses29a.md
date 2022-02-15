@@ -8,6 +8,5 @@ parent_title: 'Session 29: Optimization Problems'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_01SCF10_Ses29a.pdf
-type: OCWFile
 uid: 9184c0c6-6b24-143e-4e47-b3e99a30159c
 ---
