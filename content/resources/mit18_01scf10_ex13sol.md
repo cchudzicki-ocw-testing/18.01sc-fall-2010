@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/713bd74e2658227fad9374a885208c23_MIT18_01SCF10_ex13sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 13: Implicit Differentiation'
 parent_type: CourseSection
 resourcetype: Document

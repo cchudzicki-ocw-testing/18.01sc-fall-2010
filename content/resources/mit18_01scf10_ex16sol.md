@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/41a61f858e066ddcb402f34c0e4697af_MIT18_01SCF10_ex16sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 16: The Derivative of a^x'
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: "This resource contains the solutions for the problems related to t
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/07163bb0b7ba935b72ae14d3d0850ed2_MIT18_01SCF10_ex91sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 91: Improper Integrals'
 parent_type: CourseSection
 resourcetype: Document

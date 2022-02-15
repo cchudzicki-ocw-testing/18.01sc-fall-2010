@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Session 57: How to Calculate Volumes'
 parent_type: CourseSection
 resourcetype: Image

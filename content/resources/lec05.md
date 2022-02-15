@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Session 13: Implicit Differentiation'
 parent_type: CourseSection
 resourcetype: Image

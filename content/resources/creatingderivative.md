@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/aec521b6e664d08606a5f8043b56d01f_CreatingDerivative.jar
 file_type: application/java-archive
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 2: Examples of Derivatives'
 parent_type: CourseSection
 resourcetype: Other

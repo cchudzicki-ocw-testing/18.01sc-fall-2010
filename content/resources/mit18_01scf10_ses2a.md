@@ -4,6 +4,7 @@ description: This resource contains examples of derivatives.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/257391e32134d2112560ea2b15976289_MIT18_01SCF10_Ses2a.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 2: Examples of Derivatives'
 parent_type: CourseSection
 resourcetype: Document

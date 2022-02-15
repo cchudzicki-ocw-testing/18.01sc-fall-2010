@@ -4,6 +4,7 @@ description: This resource contains informations related to parametric curves.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/07a045412b6c1539c2d0c4a757a8c964_MIT18_01SCF10_Ses80b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 80: Parametric Curves'
 parent_type: CourseSection
 resourcetype: Document

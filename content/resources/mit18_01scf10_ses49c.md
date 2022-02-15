@@ -5,6 +5,7 @@ description: This resource contains information about applications of the fundam
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/df3338c7a4e0f30c39b303d8e21b4d9d_MIT18_01SCF10_Ses49c.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 49: Applications of the Fundamental Theorem of Calculus'
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/e222d667734a7909e218f4fdcafe553e_MIT18_01SCF10_ex28sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 28: Sketching Graphs II - General Strategies'
 parent_type: CourseSection
 resourcetype: Document

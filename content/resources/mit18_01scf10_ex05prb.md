@@ -4,6 +4,7 @@ description: This resource contains problem statements related to limits and dis
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/a1e0d052dd845914254bffa2686b3fa5_MIT18_01SCF10_ex05prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 5: Discontinuity'
 parent_type: CourseSection
 resourcetype: Document

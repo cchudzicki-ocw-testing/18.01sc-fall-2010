@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/6b123e1ffe830e9ae2a4e61dfecbbb3b_MIT18_01SCF10_ex38sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 38: Integration by Substitution'
 parent_type: CourseSection
 resourcetype: Document

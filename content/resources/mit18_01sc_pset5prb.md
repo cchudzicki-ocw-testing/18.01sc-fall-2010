@@ -4,6 +4,7 @@ description: 'This resource contains problem sets of integration techniques. '
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/50d9ff5b7a30fe96bd69017ca5104d6e_MIT18_01SC_pset5prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Problem Set 2
 parent_type: CourseSection
 resourcetype: Document

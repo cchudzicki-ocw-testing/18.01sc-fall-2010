@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Session 2: Examples of Derivatives'
 parent_type: CourseSection
 resourcetype: Image

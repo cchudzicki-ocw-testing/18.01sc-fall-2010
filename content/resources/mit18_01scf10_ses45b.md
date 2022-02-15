@@ -4,6 +4,7 @@ description: This resource contains information about some easy integrals.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/a76b14bf67d60914d0ecb38e9d32cfb3_MIT18_01SCF10_Ses45b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 45: Some Easy Integrals'
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/c8a0089e4888f8d7bdef0fdd920c3760_MIT18_01SCF10_ex12sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 12: Higher Derivatives'
 parent_type: CourseSection
 resourcetype: Document

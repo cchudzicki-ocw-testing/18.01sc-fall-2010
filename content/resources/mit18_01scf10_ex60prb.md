@@ -4,6 +4,7 @@ description: This resource contains problem statements related to average work b
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/505691d67652838ea71566b872225032_MIT18_01SCF10_ex60prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 60: Integrals and Averages'
 parent_type: CourseSection
 resourcetype: Document

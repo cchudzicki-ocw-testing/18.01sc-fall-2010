@@ -4,6 +4,7 @@ description: This resource contains informations related to taylor's series.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/25541a5e3579d1d5c52ad8ccd6b152ec_MIT18_01SCF10_Ses98b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 98: Taylor''s Series'
 parent_type: CourseSection
 resourcetype: Document

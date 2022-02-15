@@ -4,6 +4,7 @@ description: This resource contains problem statements related to integration by
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/f3ce76b69d575ae6b9903e57a0459f79_MIT18_01SCF10_ex76prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 76: Integration by Parts'
 parent_type: CourseSection
 resourcetype: Document

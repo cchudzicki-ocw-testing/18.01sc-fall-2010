@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/2045fef2f2fa83e391fd95b39b083173_MIT18_01SCF10_exam3sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 67: Materials for Exam 3'
 parent_type: CourseSection
 resourcetype: Document

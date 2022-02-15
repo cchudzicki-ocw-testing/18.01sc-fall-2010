@@ -4,6 +4,7 @@ description: This resource contains information about separation of variables.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/731ad129eaae3c0210b0d3b71033bd57_MIT18_01SCF10_Ses40a.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 40: Separation of Variables'
 parent_type: CourseSection
 resourcetype: Document

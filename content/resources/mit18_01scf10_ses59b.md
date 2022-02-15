@@ -5,6 +5,7 @@ description: This resource contains information about volume of a parabaloid, re
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/0987196a66a20a67fdb3e07197c8fedf_MIT18_01SCF10_Ses59b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 59: Volume of a Parabaloid, Revolving About y-axis'
 parent_type: CourseSection
 resourcetype: Document

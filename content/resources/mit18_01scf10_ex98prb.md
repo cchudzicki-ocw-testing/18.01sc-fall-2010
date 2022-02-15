@@ -4,6 +4,7 @@ description: This resource contains problem statements related to Taylor's serie
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/ead3fb58ee68fcf2feb7df2e52d2b702_MIT18_01SCF10_ex98prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 98: Taylor''s Series'
 parent_type: CourseSection
 resourcetype: Document

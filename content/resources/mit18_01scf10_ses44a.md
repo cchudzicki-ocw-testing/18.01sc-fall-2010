@@ -4,6 +4,7 @@ description: This resource contains information about adding areas of rectangles
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/3cdcdfc7dedd0c6b31c3d76a3df67841_MIT18_01SCF10_Ses44a.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 44: Adding Areas of Rectangles'
 parent_type: CourseSection
 resourcetype: Document

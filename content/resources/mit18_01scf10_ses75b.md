@@ -4,6 +4,7 @@ description: This resource contains informations related to advanced partial fra
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/8a0cc337ce7bb237837147c9fffad4a5_MIT18_01SCF10_Ses75b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 75: Advanced Partial Fractions'
 parent_type: CourseSection
 resourcetype: Document

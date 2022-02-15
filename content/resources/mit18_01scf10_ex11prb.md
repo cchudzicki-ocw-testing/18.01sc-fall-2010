@@ -4,6 +4,7 @@ description: This resource contains problem statements related to quotient rule.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/cc1f0327010197b9b87e66b3408b27ec_MIT18_01SCF10_ex11prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 11: Chain Rule'
 parent_type: CourseSection
 resourcetype: Document

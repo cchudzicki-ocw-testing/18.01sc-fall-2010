@@ -4,6 +4,7 @@ description: This resource contains problem statements related to L'hospital's r
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/308a1ff099faf66c4dc14595014a3b2d_MIT18_01SCF10_ex87prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 87: L''Hospital''s Rule'
 parent_type: CourseSection
 resourcetype: Document

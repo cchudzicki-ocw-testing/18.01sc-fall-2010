@@ -5,6 +5,7 @@ description: 'This resource contains solutions of applications of differentiatio
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/f556ad6eaeb6efeeda61161d7a63c6d7_MIT18_01SC_pset2sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Problem Set 3
 parent_type: CourseSection
 resourcetype: Document

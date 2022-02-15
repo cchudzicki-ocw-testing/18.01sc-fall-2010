@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/defccdd353fb3162a123a5306dd2d92b_MIT18_01SCF10_ex63sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 63: Numerical Integration'
 parent_type: CourseSection
 resourcetype: Document

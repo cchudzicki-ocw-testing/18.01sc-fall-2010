@@ -4,6 +4,7 @@ description: This resource contains information about differentials.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/2183e76e7202ac968f33d96f81f790d7_MIT18_01SCF10_Ses36b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 36: Differentials'
 parent_type: CourseSection
 resourcetype: Document

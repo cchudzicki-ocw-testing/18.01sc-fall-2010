@@ -4,6 +4,7 @@ description: This resource contains information about using quadratic approximat
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/a0e3b6d954bd96583f87daf355323163_MIT18_01SCF10_Ses26b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 26: Using Quadratic Approximations'
 parent_type: CourseSection
 resourcetype: Document

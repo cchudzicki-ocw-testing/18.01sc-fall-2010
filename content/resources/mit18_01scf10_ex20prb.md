@@ -5,6 +5,7 @@ description: This resource contains problem statements related to hyperbolic ang
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/19beee5694df5686f971de3c1bc4abec_MIT18_01SCF10_ex20prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 20: Hyperbolic Trig Functions'
 parent_type: CourseSection
 resourcetype: Document

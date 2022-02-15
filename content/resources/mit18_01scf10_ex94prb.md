@@ -4,6 +4,7 @@ description: This resource contains problem statements related to infinite serie
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/db8f7368a52ee6e69946ef40ecd5f9e3_MIT18_01SCF10_ex94prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 94: Infinite Series'
 parent_type: CourseSection
 resourcetype: Document

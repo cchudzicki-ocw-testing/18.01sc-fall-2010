@@ -4,6 +4,7 @@ description: This resource contains information related to discontinuity.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/80d39e825d96c3c4930171cb8c6e96fb_MIT18_01SCF10_Ses5e.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 5: Discontinuity'
 parent_type: CourseSection
 resourcetype: Document

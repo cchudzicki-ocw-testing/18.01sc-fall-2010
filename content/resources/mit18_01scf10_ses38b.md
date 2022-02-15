@@ -4,6 +4,7 @@ description: This resource contains information about integration by substitutio
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/9b87200113a867e6c8b22b35b75259f4_MIT18_01SCF10_Ses38b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 38: Integration by Substitution'
 parent_type: CourseSection
 resourcetype: Document

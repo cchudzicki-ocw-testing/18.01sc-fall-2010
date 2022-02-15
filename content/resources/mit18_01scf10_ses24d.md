@@ -4,6 +4,7 @@ description: This resource contains information related to examples of linear ap
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/016abeae7a6e2c220798361d6105dae7_MIT18_01SCF10_Ses24d.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 24: Examples of Linear Approximation'
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: This resource contains informations related to computing the length
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/7f65f0e56a0941f3720dc79b89c6de37_MIT18_01SCF10_Ses78d.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 78: Computing the Length of a Curve'
 parent_type: CourseSection
 resourcetype: Document

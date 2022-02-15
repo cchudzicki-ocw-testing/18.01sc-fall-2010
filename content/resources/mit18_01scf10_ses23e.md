@@ -4,6 +4,7 @@ description: This resource contains information related to linear approximation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/29f7e8b35ecc89da1c7b8c2b6e7e9220_MIT18_01SCF10_Ses23e.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 23: Linear Approximation'
 parent_type: CourseSection
 resourcetype: Document

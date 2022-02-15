@@ -5,6 +5,7 @@ description: This resource contains the solutions for the problems related to th
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/ce95c6111e8e778a8105153518663d99_MIT18_01SCF10_ex97sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 97: Power Series'
 parent_type: CourseSection
 resourcetype: Document

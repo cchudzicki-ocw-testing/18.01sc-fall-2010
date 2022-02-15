@@ -4,6 +4,7 @@ description: 'This resource contains problem sets of applications of differentia
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/9ed0d442d25990a98c1c770ad331a17a_MIT18_01SC_pset2prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Problem Set 4
 parent_type: CourseSection
 resourcetype: Document

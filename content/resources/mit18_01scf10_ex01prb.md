@@ -4,6 +4,7 @@ description: This resource contains problem statements related to secants and ta
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/e7035a3c1ce003dca5766a3746101695_MIT18_01SCF10_ex01prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 1: Introduction to Derivatives'
 parent_type: CourseSection
 resourcetype: Document

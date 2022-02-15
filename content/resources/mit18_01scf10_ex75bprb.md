@@ -5,6 +5,7 @@ description: This resource contains problem statements related to advanced parti
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/c946efb0a4f416a4ad1dd5217ad94f12_MIT18_01SCF10_ex75bprb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 75: Advanced Partial Fractions'
 parent_type: CourseSection
 resourcetype: Document

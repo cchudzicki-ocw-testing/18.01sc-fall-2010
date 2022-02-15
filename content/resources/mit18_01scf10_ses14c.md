@@ -4,6 +4,7 @@ description: This resource contains information related to examples of implicit 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/5c1f8c77b588b193087f1a59dab495d8_MIT18_01SCF10_Ses14c.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 14: Examples of Implicit Differentiation'
 parent_type: CourseSection
 resourcetype: Document

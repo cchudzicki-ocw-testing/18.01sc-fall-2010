@@ -4,6 +4,7 @@ description: This resource contains information about newton's method.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/c9317592db3623094a918cff09f3887f_MIT18_01SCF10_Ses33b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 33: Newton''s Method'
 parent_type: CourseSection
 resourcetype: Document

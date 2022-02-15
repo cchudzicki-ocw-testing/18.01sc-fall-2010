@@ -5,6 +5,7 @@ description: This resource contains the solutions for the problems related to th
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/30e0d666646354593044bb9e2349bd02_MIT18_01SCF10_ex88sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 88: Examples of L''Hospital''s Rule'
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: This resource contains informations related to operations on power 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/4f477c5893e496cd5bf18e777e95414c_MIT18_01SCF10_Ses100e.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 100: Operations on Power Series'
 parent_type: CourseSection
 resourcetype: Document

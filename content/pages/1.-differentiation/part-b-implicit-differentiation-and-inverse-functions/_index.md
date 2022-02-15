@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1. Differentiation
 parent_type: CourseSection
 parent_uid: ff2c27ef-f0de-3981-0c3e-51a37548e568

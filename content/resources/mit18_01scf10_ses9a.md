@@ -4,6 +4,7 @@ description: This resource contains information related to product rule.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/b248c90cb7620c873e1781f41b217049_MIT18_01SCF10_Ses9a.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 9: Product Rule'
 parent_type: CourseSection
 resourcetype: Document

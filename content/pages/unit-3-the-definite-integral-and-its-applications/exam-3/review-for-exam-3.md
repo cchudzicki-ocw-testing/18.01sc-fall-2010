@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Exam 3
 parent_type: CourseSection
 parent_uid: d008dd74-a84e-2b23-0239-ba6f9604c6fa

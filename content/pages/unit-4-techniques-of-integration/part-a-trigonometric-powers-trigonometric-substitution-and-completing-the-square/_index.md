@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4. Techniques of Integration
 parent_type: CourseSection
 parent_uid: 4da2f4d4-7b88-7d3f-0da6-a5405ecfef83

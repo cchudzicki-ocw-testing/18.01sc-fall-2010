@@ -5,6 +5,7 @@ description: This resource contains informations related to Introduction to stac
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/2f7f68a91f8718c6c213641b6cae94b3_MIT18_01SCF10_Ses96b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 96: Stacking Blocks'
 parent_type: CourseSection
 resourcetype: Document

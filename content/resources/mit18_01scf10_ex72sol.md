@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/9f237b024ea01e7c287fd426785d87f7_MIT18_01SCF10_ex72sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 72: Trig Substitution'
 parent_type: CourseSection
 resourcetype: Document

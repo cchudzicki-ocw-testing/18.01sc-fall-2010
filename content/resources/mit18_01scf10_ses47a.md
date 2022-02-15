@@ -5,6 +5,7 @@ description: This resource contains information about introduction of the fundam
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/3b9fc2f347fcbcbe38bd049f61f85f97_MIT18_01SCF10_Ses47a.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 47: Introduction of the Fundamental Theorem of Calculus'
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: This resource contains information about The second fundamental the
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/c8d35d09cacfda0964fa025aaf532e39_MIT18_01SCF10_Ses54b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 54: The Second Fundamental Theorem and ln(x)'
 parent_type: CourseSection
 resourcetype: Document

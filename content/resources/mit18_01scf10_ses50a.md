@@ -5,6 +5,7 @@ description: This resource contains information about combining the fundamental 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/7ccbc2a966279b589d2e426d86285e27_MIT18_01SCF10_Ses50a.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 50: Combining the Fundamental Theorem and the Mean Value Theorem'
 parent_type: CourseSection
 resourcetype: Document

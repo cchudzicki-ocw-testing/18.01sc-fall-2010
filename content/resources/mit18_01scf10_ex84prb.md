@@ -5,6 +5,7 @@ description: This resource contains problem statements related to polar coordina
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/adfb75065705b627df52b84e0bc6161a_MIT18_01SCF10_ex84prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 84: Polar Coordinates and Graphing'
 parent_type: CourseSection
 resourcetype: Document

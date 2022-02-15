@@ -5,6 +5,7 @@ description: This resource contains information about creating new functions usi
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/bb84cc5d0b926d6c2c7429adcd68d33a_MIT18_01SCF10_Ses55b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Session 55: Creating New Functions Using the Second Fundamental Theorem'
 parent_type: CourseSection
 resourcetype: Document
