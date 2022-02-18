@@ -22,6 +22,6 @@ video_metadata:
   youtube_id: Pd2xP5zDsRw
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses50a)
+» {{< resource_link 7ccbc2a9-6627-9b58-9d2e-426d86285e27 "Accompanying Notes (PDF)" >}}
 
 From Lecture 20 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)

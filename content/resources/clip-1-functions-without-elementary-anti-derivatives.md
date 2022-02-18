@@ -22,6 +22,6 @@ video_metadata:
   youtube_id: KhwQKE_tld0
 ---
 
-» [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses92b)
+» {{< resource_link dc8312d2-8d47-7422-42c9-c84b8b8f4925 "Accompanying Notes (PDF)" >}}
 
 From Lecture 36 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
