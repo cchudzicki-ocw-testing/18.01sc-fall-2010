@@ -18,11 +18,11 @@ This session provides a brief overview of Unit 1 and describes the derivative as
 
 ### Video Excerpts
 
-- {{< resource_link 099ee1d0-b79e-344d-3f9c-2ec66861ace3 "Clip 1: Introduction to 18.01" >}}
-- {{< resource_link c792b8c6-7c9d-5e16-2de2-70472fc10cbc "Clip 2: Geometric Interpretation of Differentiation" >}}
-- {{< resource_link d3b6c68e-d743-811c-1b74-168eb258fa73 "Clip 3: Limit of Secants" >}}
-- {{< resource_link 59a43799-5266-d194-39e9-22a4d0a243e7 "Clip 4: Slope as Ratio" >}}
-- {{< resource_link 2b740591-a076-ad5c-b01b-45e3a70d694d "Clip 5: Main Formula" >}}
+1. {{< resource_link 099ee1d0-b79e-344d-3f9c-2ec66861ace3 "Clip 1: Introduction to 18.01" >}}
+2. {{< resource_link c792b8c6-7c9d-5e16-2de2-70472fc10cbc "Clip 2: Geometric Interpretation of Differentiation" >}}
+3. {{< resource_link d3b6c68e-d743-811c-1b74-168eb258fa73 "Clip 3: Limit of Secants" >}}
+4. {{< resource_link 59a43799-5266-d194-39e9-22a4d0a243e7 "Clip 4: Slope as Ratio" >}}
+5. {{< resource_link 2b740591-a076-ad5c-b01b-45e3a70d694d "Clip 5: Main Formula" >}}
 
 ## Worked Example
 
