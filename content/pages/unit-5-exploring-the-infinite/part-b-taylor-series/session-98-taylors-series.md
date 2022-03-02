@@ -9,7 +9,7 @@ title: 'Session 98: Taylor''s Series'
 uid: 30f32e82-5b1a-1974-da6c-98b8de0aafd3
 ---
 
-« {{< resource_link bcbb45fd-be1b-69cc-80a8-2c9f73ca8d5d "Previous" >}} | {{< resource_link 9714534f-bc62-1758-9e4a-b69f5ad147a4 "Next" >}} »
+« {{% resource_link bcbb45fd-be1b-69cc-80a8-2c9f73ca8d5d "Previous" %}} | {{% resource_link 9714534f-bc62-1758-9e4a-b69f5ad147a4 "Next" %}} »
 
 Overview
 --------
@@ -21,11 +21,11 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link 1a8a83ed-9ab0-f55e-4e4e-6dc0bc500094 "Clip 1: Introduction to Taylor's Series" >}}
+{{% resource_link 1a8a83ed-9ab0-f55e-4e4e-6dc0bc500094 "Clip 1: Introduction to Taylor's Series" %}}
 
-{{< resource_link 799aa397-3dc6-9c8e-0bf6-1d3b43b79c5f "Clip 2: Taylor's Formula" >}}
+{{% resource_link 799aa397-3dc6-9c8e-0bf6-1d3b43b79c5f "Clip 2: Taylor's Formula" %}}
 
-{{< resource_link 287ec0ab-827f-d269-ab1a-68863a8abd4d "Clip 3: Taylor's Formula Examples" >}}
+{{% resource_link 287ec0ab-827f-d269-ab1a-68863a8abd4d "Clip 3: Taylor's Formula Examples" %}}
 
 Recitation Video
 ----------------
@@ -43,7 +43,7 @@ Worked Example
 
 Proving That the Taylor Series of a Function is Equal to the Function
 
-*   {{< resource_link ead3fb58-ee68-fcf2-feb7-df2e52d2b702 "Problem (PDF)" >}}
-*   {{< resource_link 51bf7829-66d0-896f-0c18-3541e1c3cf22 "Solution (PDF)" >}}
+*   {{% resource_link ead3fb58-ee68-fcf2-feb7-df2e52d2b702 "Problem (PDF)" %}}
+*   {{% resource_link 51bf7829-66d0-896f-0c18-3541e1c3cf22 "Solution (PDF)" %}}
 
-« {{< resource_link bcbb45fd-be1b-69cc-80a8-2c9f73ca8d5d "Previous" >}} | {{< resource_link 9714534f-bc62-1758-9e4a-b69f5ad147a4 "Next" >}} »
+« {{% resource_link bcbb45fd-be1b-69cc-80a8-2c9f73ca8d5d "Previous" %}} | {{% resource_link 9714534f-bc62-1758-9e4a-b69f5ad147a4 "Next" %}} »

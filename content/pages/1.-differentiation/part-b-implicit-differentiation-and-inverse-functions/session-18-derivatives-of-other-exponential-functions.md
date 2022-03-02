@@ -9,7 +9,7 @@ title: 'Session 18: Derivatives of other Exponential Functions'
 uid: 0cf2fa75-aeb6-82db-f14c-169c98cd1a15
 ---
 
-« {{< resource_link 625f9141-b9dc-5a93-65ac-ef497e19af09 "Previous" >}} | {{< resource_link 60442492-7fbe-5ea4-76fd-72662493105b "Next" >}} »
+« {{% resource_link 625f9141-b9dc-5a93-65ac-ef497e19af09 "Previous" %}} | {{% resource_link 60442492-7fbe-5ea4-76fd-72662493105b "Next" %}} »
 
 Overview
 --------
@@ -39,6 +39,6 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link c4ce10ba-bb2f-7a36-1f6a-3069cb0e1cdd "Clip 1: The Power Rule" >}}
+{{% resource_link c4ce10ba-bb2f-7a36-1f6a-3069cb0e1cdd "Clip 1: The Power Rule" %}}
 
-« {{< resource_link 625f9141-b9dc-5a93-65ac-ef497e19af09 "Previous" >}} | {{< resource_link 60442492-7fbe-5ea4-76fd-72662493105b "Next" >}} »
+« {{% resource_link 625f9141-b9dc-5a93-65ac-ef497e19af09 "Previous" %}} | {{% resource_link 60442492-7fbe-5ea4-76fd-72662493105b "Next" %}} »

@@ -9,7 +9,7 @@ title: 'Session 95: Series Comparison'
 uid: e6b5bcf0-1d4f-e02c-b8f1-5ed900b23542
 ---
 
-« {{< resource_link 1825bfbb-d364-7c86-fa97-71d985c21513 "Previous" >}} | {{< resource_link 67af8950-4ffe-36b5-70ec-6996515b988c "Next" >}} »
+« {{% resource_link 1825bfbb-d364-7c86-fa97-71d985c21513 "Previous" %}} | {{% resource_link 67af8950-4ffe-36b5-70ec-6996515b988c "Next" %}} »
 
 Overview
 --------
@@ -21,11 +21,11 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link 8457d830-2260-7871-6c20-ba475c31040d "Clip 1: Comparison of the Harmonic Series" >}}
+{{% resource_link 8457d830-2260-7871-6c20-ba475c31040d "Clip 1: Comparison of the Harmonic Series" %}}
 
-{{< resource_link 0fae367a-b6ad-00a1-134e-90a124d98f74 "Clip 2: Comparison Tests" >}}
+{{% resource_link 0fae367a-b6ad-00a1-134e-90a124d98f74 "Clip 2: Comparison Tests" %}}
 
-{{< resource_link 7360e2ad-8187-eadd-e3cb-45d5c3b0b7b9 "Clip 3: Examples of Comparison" >}}
+{{% resource_link 7360e2ad-8187-eadd-e3cb-45d5c3b0b7b9 "Clip 3: Examples of Comparison" %}}
 
 Recitation Video
 ----------------
@@ -43,8 +43,8 @@ Worked Example
 
 Using the Ratio Test
 
-*   {{< resource_link 827156a8-50e1-f9bc-5617-d8d0c5856f63 "Problem (PDF)" >}}
-*   {{< resource_link deb763be-346e-b1b8-42a1-88b4d453149e "Solution (PDF)" >}}
+*   {{% resource_link 827156a8-50e1-f9bc-5617-d8d0c5856f63 "Problem (PDF)" %}}
+*   {{% resource_link deb763be-346e-b1b8-42a1-88b4d453149e "Solution (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -57,4 +57,4 @@ Recitation Video
 
 {{< resource 9da4dde8-80bb-2ef0-f288-4ee46a2efca0 >}}
 
-« {{< resource_link 1825bfbb-d364-7c86-fa97-71d985c21513 "Previous" >}} | {{< resource_link 67af8950-4ffe-36b5-70ec-6996515b988c "Next" >}} »
+« {{% resource_link 1825bfbb-d364-7c86-fa97-71d985c21513 "Previous" %}} | {{% resource_link 67af8950-4ffe-36b5-70ec-6996515b988c "Next" %}} »

@@ -9,7 +9,7 @@ title: 'Session 62: Integrals and Probability'
 uid: 1fa09ca8-1711-139c-23be-618aa2768257
 ---
 
-« {{< resource_link d2dac4c5-7839-73f0-083c-dd3859d4cda5 "Previous" >}} | {{< resource_link be07f2bd-e330-5a67-6f66-884dbf8397d1 "Next" >}} »
+« {{% resource_link d2dac4c5-7839-73f0-083c-dd3859d4cda5 "Previous" %}} | {{% resource_link be07f2bd-e330-5a67-6f66-884dbf8397d1 "Next" %}} »
 
 Overview
 --------
@@ -21,7 +21,7 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link be2cda1d-e808-0c2f-a839-184764113a23 "Clip 1: Probability Example" >}}
+{{% resource_link be2cda1d-e808-0c2f-a839-184764113a23 "Clip 1: Probability Example" %}}
 
 Recitation Video
 ----------------
@@ -35,10 +35,10 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link 002a0815-5c29-5178-11c1-0c730b3fc435 "Clip 1: Probability Summary" >}}
+{{% resource_link 002a0815-5c29-5178-11c1-0c730b3fc435 "Clip 1: Probability Summary" %}}
 
-{{< resource_link 8f339de6-8e74-01e1-cfc5-16177757a96d "Clip 2: Errata: Heat is Energy" >}}
+{{% resource_link 8f339de6-8e74-01e1-cfc5-16177757a96d "Clip 2: Errata: Heat is Energy" %}}
 
-{{< resource_link 5467a0f4-3642-1043-d98a-7ba2cd1226dd "Clip 3: Example: Boy Near a Dart Board" >}}
+{{% resource_link 5467a0f4-3642-1043-d98a-7ba2cd1226dd "Clip 3: Example: Boy Near a Dart Board" %}}
 
-« {{< resource_link d2dac4c5-7839-73f0-083c-dd3859d4cda5 "Previous" >}} | {{< resource_link be07f2bd-e330-5a67-6f66-884dbf8397d1 "Next" >}} »
+« {{% resource_link d2dac4c5-7839-73f0-083c-dd3859d4cda5 "Previous" %}} | {{% resource_link be07f2bd-e330-5a67-6f66-884dbf8397d1 "Next" %}} »

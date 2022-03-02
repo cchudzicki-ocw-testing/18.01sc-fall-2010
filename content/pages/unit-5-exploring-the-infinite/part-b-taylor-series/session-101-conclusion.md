@@ -9,7 +9,7 @@ title: 'Session 101: Conclusion'
 uid: c22c3207-88f0-9de5-fe78-a6e305cad2b4
 ---
 
-« {{< resource_link 7aaff014-23b9-22b3-46af-dcd6c0328e83 "Previous" >}} | {{< resource_link fe839db0-25a8-3d50-85ec-ae3d78b54553 "Next" >}} »
+« {{% resource_link 7aaff014-23b9-22b3-46af-dcd6c0328e83 "Previous" %}} | {{% resource_link fe839db0-25a8-3d50-85ec-ae3d78b54553 "Next" %}} »
 
 Overview
 --------
@@ -28,14 +28,14 @@ Worked Example
 
 Hyperbolic Sine
 
-*   {{< resource_link 0f0e4cb3-f521-e99b-1300-d0ed3cf0c7ef "Problem (PDF)" >}}
-*   {{< resource_link f5a44e75-4036-92c5-cfbf-7882a79d77d3 "Solution (PDF)" >}}
+*   {{% resource_link 0f0e4cb3-f521-e99b-1300-d0ed3cf0c7ef "Problem (PDF)" %}}
+*   {{% resource_link f5a44e75-4036-92c5-cfbf-7882a79d77d3 "Solution (PDF)" %}}
 
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
 
-{{< resource_link fd631450-a476-3f3e-ada1-3e63fba9688d "Clip: Finale" >}}
+{{% resource_link fd631450-a476-3f3e-ada1-3e63fba9688d "Clip: Finale" %}}
 
-« {{< resource_link 7aaff014-23b9-22b3-46af-dcd6c0328e83 "Previous" >}} | {{< resource_link fe839db0-25a8-3d50-85ec-ae3d78b54553 "Next" >}} »
+« {{% resource_link 7aaff014-23b9-22b3-46af-dcd6c0328e83 "Previous" %}} | {{% resource_link fe839db0-25a8-3d50-85ec-ae3d78b54553 "Next" %}} »

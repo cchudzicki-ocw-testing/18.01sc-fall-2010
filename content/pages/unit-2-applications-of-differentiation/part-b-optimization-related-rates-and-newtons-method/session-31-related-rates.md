@@ -9,7 +9,7 @@ title: 'Session 31: Related Rates'
 uid: 740c26e9-a52f-298e-76ec-9fb9679d1f19
 ---
 
-« {{< resource_link 1adc3400-c6b3-7f82-e7f6-5de33469e2b6 "Previous" >}} | {{< resource_link b5f1b462-2711-48f7-75cc-618b67ef606b "Next" >}} »
+« {{% resource_link 1adc3400-c6b3-7f82-e7f6-5de33469e2b6 "Previous" %}} | {{% resource_link b5f1b462-2711-48f7-75cc-618b67ef606b "Next" %}} »
 
 Overview
 --------
@@ -21,11 +21,11 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link d48a5907-b540-e74f-6b50-a8a566fd267b "Clip 1: Introduction to Related Rates" >}}
+{{% resource_link d48a5907-b540-e74f-6b50-a8a566fd267b "Clip 1: Introduction to Related Rates" %}}
 
-{{< resource_link 427ffe9d-b023-09a2-6738-48e4e658cdf7 "Clip 2: Related Rates" >}}
+{{% resource_link 427ffe9d-b023-09a2-6738-48e4e658cdf7 "Clip 2: Related Rates" %}}
 
-{{< resource_link 22e6be89-849d-831e-29cd-1c09ecbf510b "Clip 3: Rates: A Conical Tank" >}}
+{{% resource_link 22e6be89-849d-831e-29cd-1c09ecbf510b "Clip 3: Rates: A Conical Tank" %}}
 
 Recitation Video
 ----------------
@@ -43,7 +43,7 @@ Worked Example
 
 Solving an Optimization Problem Using Implicit Differentiation
 
-*   {{< resource_link f10b7a01-6835-6ed2-b47d-9f64f4d33ad1 "Problem (PDF)" >}}
-*   {{< resource_link 96600de0-e270-4042-5d88-b89d45a722a7 "Solution (PDF)" >}}
+*   {{% resource_link f10b7a01-6835-6ed2-b47d-9f64f4d33ad1 "Problem (PDF)" %}}
+*   {{% resource_link 96600de0-e270-4042-5d88-b89d45a722a7 "Solution (PDF)" %}}
 
-« {{< resource_link 1adc3400-c6b3-7f82-e7f6-5de33469e2b6 "Previous" >}} | {{< resource_link b5f1b462-2711-48f7-75cc-618b67ef606b "Next" >}} »
+« {{% resource_link 1adc3400-c6b3-7f82-e7f6-5de33469e2b6 "Previous" %}} | {{% resource_link b5f1b462-2711-48f7-75cc-618b67ef606b "Next" %}} »

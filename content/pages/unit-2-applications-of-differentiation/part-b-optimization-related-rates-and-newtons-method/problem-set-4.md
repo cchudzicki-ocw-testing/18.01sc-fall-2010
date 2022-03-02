@@ -9,7 +9,7 @@ title: Problem Set 4
 uid: 25ab3164-7d79-08fb-9293-7192dc7da1d0
 ---
 
-« {{< resource_link 08bcebd8-87ee-223a-f847-41f0fef4d632 "Previous" >}} | {{< resource_link cc849d58-0178-1635-e7d9-29c121e176fe "Next" >}} »
+« {{% resource_link 08bcebd8-87ee-223a-f847-41f0fef4d632 "Previous" %}} | {{% resource_link cc849d58-0178-1635-e7d9-29c121e176fe "Next" %}} »
 
 Overview
 --------
@@ -22,7 +22,7 @@ In this session you will:
 Problems Set
 ------------
 
-Use {{< resource_link 9ed0d442-d259-90a9-8c1c-770ad331a17a "Applications of Differentiation (PDF)" >}} to do the problems below.
+Use {{% resource_link 9ed0d442-d259-90a9-8c1c-770ad331a17a "Applications of Differentiation (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -81,11 +81,11 @@ Locating zeroes; Newton's method
 
 ### Solutions
 
-{{< resource_link ef541d98-8c5d-0e71-beb7-56d5c0104561 "Solutions to Applications Differentiation problems (PDF)" >}}
+{{% resource_link ef541d98-8c5d-0e71-beb7-56d5c0104561 "Solutions to Applications Differentiation problems (PDF)" %}}
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
   
  
 
-« {{< resource_link 08bcebd8-87ee-223a-f847-41f0fef4d632 "Previous" >}} | {{< resource_link cc849d58-0178-1635-e7d9-29c121e176fe "Next" >}} »
+« {{% resource_link 08bcebd8-87ee-223a-f847-41f0fef4d632 "Previous" %}} | {{% resource_link cc849d58-0178-1635-e7d9-29c121e176fe "Next" %}} »

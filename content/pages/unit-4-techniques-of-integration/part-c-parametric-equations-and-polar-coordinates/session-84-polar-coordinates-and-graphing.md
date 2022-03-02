@@ -9,7 +9,7 @@ title: 'Session 84: Polar Coordinates and Graphing'
 uid: cfd25e33-da1a-2e54-749f-33591f59a4ba
 ---
 
-« {{< resource_link 48426d55-f5c6-23f4-eacc-4fd415a7a577 "Previous" >}} | {{< resource_link b4238780-f29b-563a-34b0-5363b1ac982c "Next" >}} »
+« {{% resource_link 48426d55-f5c6-23f4-eacc-4fd415a7a577 "Previous" %}} | {{% resource_link b4238780-f29b-563a-34b0-5363b1ac982c "Next" %}} »
 
 Overview
 --------
@@ -21,11 +21,11 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link 2636a2bf-6ae7-99f8-e724-0c23ac9ab0ad "Clip 1: Graph of r = 2a cos(θ)" >}}
+{{% resource_link 2636a2bf-6ae7-99f8-e724-0c23ac9ab0ad "Clip 1: Graph of r = 2a cos(θ)" %}}
 
-{{< resource_link d144a8df-a938-110d-c248-250a5d0c0b71 "Clip 2: Graph of r = sin(2θ)" >}}
+{{% resource_link d144a8df-a938-110d-c248-250a5d0c0b71 "Clip 2: Graph of r = sin(2θ)" %}}
 
-{{< resource_link aa32da2a-5d52-2a63-9548-3067a2b74e99 "Clip 3: Polar Coordinates and Conic Sections" >}}
+{{% resource_link aa32da2a-5d52-2a63-9548-3067a2b74e99 "Clip 3: Polar Coordinates and Conic Sections" %}}
 
 Recitation Video
 ----------------
@@ -34,4 +34,4 @@ Recitation Video
 
 {{< resource 6aa9e798-b5fc-e910-0576-4051cf752e3e >}}
 
-« {{< resource_link 48426d55-f5c6-23f4-eacc-4fd415a7a577 "Previous" >}} | {{< resource_link b4238780-f29b-563a-34b0-5363b1ac982c "Next" >}} »
+« {{% resource_link 48426d55-f5c6-23f4-eacc-4fd415a7a577 "Previous" %}} | {{% resource_link b4238780-f29b-563a-34b0-5363b1ac982c "Next" %}} »

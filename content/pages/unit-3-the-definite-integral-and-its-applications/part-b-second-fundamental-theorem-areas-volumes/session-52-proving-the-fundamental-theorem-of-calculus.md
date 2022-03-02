@@ -9,7 +9,7 @@ title: 'Session 52: Proving the Fundamental Theorem of Calculus'
 uid: 593f1575-26f1-927f-d6ea-05e37c3d4475
 ---
 
-« {{< resource_link 9b4c6b77-5998-61b8-20e8-c804596b8c24 "Previous" >}} | {{< resource_link 28016eb0-0515-039e-bda8-eb0f6b6ddb58 "Next" >}} »
+« {{% resource_link 9b4c6b77-5998-61b8-20e8-c804596b8c24 "Previous" %}} | {{% resource_link 28016eb0-0515-039e-bda8-eb0f6b6ddb58 "Next" %}} »
 
 Overview
 --------
@@ -21,8 +21,8 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link 4396dc9b-442a-9119-9079-f97d58dd045c "Clip 1: Proof of the Second Fundamental Theorem of Calculus" >}}
+{{% resource_link 4396dc9b-442a-9119-9079-f97d58dd045c "Clip 1: Proof of the Second Fundamental Theorem of Calculus" %}}
 
-{{< resource_link 58f5b4f2-afb2-20f1-ec7a-5eb30727a2b1 "Clip 2: Proof of the First Fundamental Theorem of Calculus" >}}
+{{% resource_link 58f5b4f2-afb2-20f1-ec7a-5eb30727a2b1 "Clip 2: Proof of the First Fundamental Theorem of Calculus" %}}
 
-« {{< resource_link 9b4c6b77-5998-61b8-20e8-c804596b8c24 "Previous" >}} | {{< resource_link 28016eb0-0515-039e-bda8-eb0f6b6ddb58 "Next" >}} »
+« {{% resource_link 9b4c6b77-5998-61b8-20e8-c804596b8c24 "Previous" %}} | {{% resource_link 28016eb0-0515-039e-bda8-eb0f6b6ddb58 "Next" %}} »

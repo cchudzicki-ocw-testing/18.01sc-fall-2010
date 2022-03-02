@@ -9,7 +9,7 @@ title: Problem Set 1
 uid: 93a0806f-20ed-6540-1e0e-178f23dae5d8
 ---
 
-« {{< resource_link f0a4bb74-6fd7-34de-3811-8b0ff7607e0b "Previous" >}} | {{< resource_link ea455a8a-e7f0-daad-0b8d-5033112f5f5e "Next" >}} »
+« {{% resource_link f0a4bb74-6fd7-34de-3811-8b0ff7607e0b "Previous" %}} | {{% resource_link ea455a8a-e7f0-daad-0b8d-5033112f5f5e "Next" %}} »
 
 Overview
 --------
@@ -22,7 +22,7 @@ In this session you will:
 Problem Set
 -----------
 
-Use {{< resource_link 1557acc7-f3cd-5d15-38b7-1fe77bcf9ec0 "Differentiation (PDF)" >}} to do the problems below.
+Use {{% resource_link 1557acc7-f3cd-5d15-38b7-1fe77bcf9ec0 "Differentiation (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -153,8 +153,8 @@ Higher derivatives
 
 ### Solutions
 
-{{< resource_link bc48678e-f179-556c-c639-b6b28e42d81c "Solutions to Differentiation problems (PDF)" >}}
+{{% resource_link bc48678e-f179-556c-c639-b6b28e42d81c "Solutions to Differentiation problems (PDF)" %}}
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
-« {{< resource_link f0a4bb74-6fd7-34de-3811-8b0ff7607e0b "Previous" >}} | {{< resource_link ea455a8a-e7f0-daad-0b8d-5033112f5f5e "Next" >}} »
+« {{% resource_link f0a4bb74-6fd7-34de-3811-8b0ff7607e0b "Previous" %}} | {{% resource_link ea455a8a-e7f0-daad-0b8d-5033112f5f5e "Next" %}} »

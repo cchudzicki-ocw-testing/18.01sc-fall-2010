@@ -9,7 +9,7 @@ title: 'Session 44: Adding Areas of Rectangles'
 uid: 9f42b86c-bcb7-812f-84f2-846c3d7ce9f5
 ---
 
-« {{< resource_link 5170b79f-5b62-ed3a-4d96-b27fc3edc468 "Previous" >}} | {{< resource_link 4bffe5cc-1619-6016-e522-10964dbeddc4 "Next" >}} »
+« {{% resource_link 5170b79f-5b62-ed3a-4d96-b27fc3edc468 "Previous" %}} | {{% resource_link 4bffe5cc-1619-6016-e522-10964dbeddc4 "Next" %}} »
 
 Overview
 --------
@@ -21,9 +21,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link 1665590e-2f91-c22d-8eca-5c45365999d7 "Clip 1: Example: f(x)= x2" >}}
+{{% resource_link 1665590e-2f91-c22d-8eca-5c45365999d7 "Clip 1: Example: f(x)= x2" %}}
 
-{{< resource_link f90ffc17-f89d-f794-2dfd-6457b9dbed77 "Clip 2: Summation Notation" >}}
+{{% resource_link f90ffc17-f89d-f794-2dfd-6457b9dbed77 "Clip 2: Summation Notation" %}}
 
 Recitation Video
 ----------------
@@ -37,7 +37,7 @@ Worked Example
 
 Summation
 
-*   {{< resource_link 415b05e2-291d-a2d2-a2eb-e4250f8544a7 "Problem (PDF)" >}}
-*   {{< resource_link 0bc1cc1e-b12d-c569-01b8-0073959a100d "Solution (PDF)" >}}
+*   {{% resource_link 415b05e2-291d-a2d2-a2eb-e4250f8544a7 "Problem (PDF)" %}}
+*   {{% resource_link 0bc1cc1e-b12d-c569-01b8-0073959a100d "Solution (PDF)" %}}
 
-« {{< resource_link 5170b79f-5b62-ed3a-4d96-b27fc3edc468 "Previous" >}} | {{< resource_link 4bffe5cc-1619-6016-e522-10964dbeddc4 "Next" >}} »
+« {{% resource_link 5170b79f-5b62-ed3a-4d96-b27fc3edc468 "Previous" %}} | {{% resource_link 4bffe5cc-1619-6016-e522-10964dbeddc4 "Next" %}} »

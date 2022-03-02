@@ -9,7 +9,7 @@ title: 'Session 63: Numerical Integration'
 uid: be07f2bd-e330-5a67-6f66-884dbf8397d1
 ---
 
-« {{< resource_link 1fa09ca8-1711-139c-23be-618aa2768257 "Previous" >}} | {{< resource_link 602ce034-a62f-6b4a-9588-4c519f8f4412 "Next" >}} »
+« {{% resource_link 1fa09ca8-1711-139c-23be-618aa2768257 "Previous" %}} | {{% resource_link 602ce034-a62f-6b4a-9588-4c519f8f4412 "Next" %}} »
 
 Overview
 --------
@@ -21,13 +21,13 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link 63c690c4-b565-b7ee-6ba8-97e4d1c64e66 "Clip 1: Introduction to Numerical Integration" >}}
+{{% resource_link 63c690c4-b565-b7ee-6ba8-97e4d1c64e66 "Clip 1: Introduction to Numerical Integration" %}}
 
-{{< resource_link e0620ef7-c36d-d441-4353-def6aeb2a181 "Clip 2: Riemann Sums" >}}
+{{% resource_link e0620ef7-c36d-d441-4353-def6aeb2a181 "Clip 2: Riemann Sums" %}}
 
-{{< resource_link 5b6a504f-bd96-499d-e19d-acfc7ab17dc6 "Clip 3: Trapezoidal Rule" >}}
+{{% resource_link 5b6a504f-bd96-499d-e19d-acfc7ab17dc6 "Clip 3: Trapezoidal Rule" %}}
 
-{{< resource_link ffb16330-ca31-f621-fbfb-28e49187170e "Clip 4: Simpson's Rule" >}}
+{{% resource_link ffb16330-ca31-f621-fbfb-28e49187170e "Clip 4: Simpson's Rule" %}}
 
 Recitation Video
 ----------------
@@ -45,8 +45,8 @@ Worked Example
 
 Numerical Integration
 
-*   {{< resource_link aa8d3256-e1dc-70a7-a1fb-5b7734d90ab6 "Problem (PDF)" >}}
-*   {{< resource_link defccdd3-53fb-3162-a123-a5306dd2d92b "Solution (PDF)" >}}
+*   {{% resource_link aa8d3256-e1dc-70a7-a1fb-5b7734d90ab6 "Problem (PDF)" %}}
+*   {{% resource_link defccdd3-53fb-3162-a123-a5306dd2d92b "Solution (PDF)" %}}
 
 Please use the mathlet below to complete this problem.
 
@@ -55,4 +55,4 @@ Mathlet
 
 [Riemann Sums](/ans7870/18/18.01SC/f10/mathlets/riemannSums.html "Open in a new window.")
 
-« {{< resource_link 1fa09ca8-1711-139c-23be-618aa2768257 "Previous" >}} | {{< resource_link 602ce034-a62f-6b4a-9588-4c519f8f4412 "Next" >}} »
+« {{% resource_link 1fa09ca8-1711-139c-23be-618aa2768257 "Previous" %}} | {{% resource_link 602ce034-a62f-6b4a-9588-4c519f8f4412 "Next" %}} »

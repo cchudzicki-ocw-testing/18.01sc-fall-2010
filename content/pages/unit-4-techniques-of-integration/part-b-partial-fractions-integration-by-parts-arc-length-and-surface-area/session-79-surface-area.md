@@ -10,7 +10,7 @@ title: 'Session 79: Surface Area'
 uid: 17929c9e-c324-e987-cc81-f0233bae0eee
 ---
 
-« {{< resource_link 5c900cbf-5c7b-c84e-4bc0-086224a0a1bd "Previous" >}} | {{< resource_link 1fe1bcbe-1302-9213-7c7b-4820b5a8b3a0 "Next" >}} »
+« {{% resource_link 5c900cbf-5c7b-c84e-4bc0-086224a0a1bd "Previous" %}} | {{% resource_link 1fe1bcbe-1302-9213-7c7b-4820b5a8b3a0 "Next" %}} »
 
 Overview
 --------
@@ -22,9 +22,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link eae33632-1cb8-cc8d-2ce7-99ab99eff5f5 "Clip 1: Introduction to Surface Area" >}}
+{{% resource_link eae33632-1cb8-cc8d-2ce7-99ab99eff5f5 "Clip 1: Introduction to Surface Area" %}}
 
-{{< resource_link 2f90fa54-2821-b8d6-0f70-b75ddd84f9d3 "Clip 2: Surface Area of a Sphere" >}}
+{{% resource_link 2f90fa54-2821-b8d6-0f70-b75ddd84f9d3 "Clip 2: Surface Area of a Sphere" %}}
 
 Recitation Video
 ----------------
@@ -38,7 +38,7 @@ Worked Example
 
 Surface Area of a Wine Glass
 
-*   {{< resource_link 595db913-9d7b-8372-fa33-916b4c02bbce "Problem (PDF)" >}}
-*   {{< resource_link 95219df9-dd0e-cab0-4b11-70fd84348fc1 "Solution (PDF)" >}}
+*   {{% resource_link 595db913-9d7b-8372-fa33-916b4c02bbce "Problem (PDF)" %}}
+*   {{% resource_link 95219df9-dd0e-cab0-4b11-70fd84348fc1 "Solution (PDF)" %}}
 
-« {{< resource_link 5c900cbf-5c7b-c84e-4bc0-086224a0a1bd "Previous" >}} | {{< resource_link 1fe1bcbe-1302-9213-7c7b-4820b5a8b3a0 "Next" >}} »
+« {{% resource_link 5c900cbf-5c7b-c84e-4bc0-086224a0a1bd "Previous" %}} | {{% resource_link 1fe1bcbe-1302-9213-7c7b-4820b5a8b3a0 "Next" %}} »

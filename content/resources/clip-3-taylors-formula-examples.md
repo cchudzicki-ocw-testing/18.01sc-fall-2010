@@ -22,6 +22,6 @@ video_metadata:
   youtube_id: wOHrNt9ScYs
 ---
 
-» {{< resource_link d46cad6f-fad6-8cd6-70c7-be2ad861f8d1 "Accompanying Notes (PDF)" >}}
+» {{% resource_link d46cad6f-fad6-8cd6-70c7-be2ad861f8d1 "Accompanying Notes (PDF)" %}}
 
 From Lecture 38 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)

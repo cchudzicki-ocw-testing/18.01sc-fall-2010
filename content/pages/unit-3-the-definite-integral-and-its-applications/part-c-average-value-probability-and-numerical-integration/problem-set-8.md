@@ -9,7 +9,7 @@ title: Problem Set 8
 uid: 94fe2b07-2ec2-811f-3644-a59845dad7a0
 ---
 
-« {{< resource_link e183dee9-558e-331a-812d-6190993e58fc "Previous" >}} | {{< resource_link d008dd74-a84e-2b23-0239-ba6f9604c6fa "Next" >}} »
+« {{% resource_link e183dee9-558e-331a-812d-6190993e58fc "Previous" %}} | {{% resource_link d008dd74-a84e-2b23-0239-ba6f9604c6fa "Next" %}} »
 
 Overview
 --------
@@ -22,7 +22,7 @@ In this session you will:
 Problems Set
 ------------
 
-Use {{< resource_link 92e9fe30-1b92-d119-95b3-775aedb4bd6a "Applications of Integration (PDF)" >}} to do the problems below.
+Use {{% resource_link 92e9fe30-1b92-d119-95b3-775aedb4bd6a "Applications of Integration (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -57,8 +57,8 @@ Average value
 
 ### Solutions
 
-{{< resource_link 257c1422-7640-a82d-98c4-72c179bfcb2c "Solutions to Applications of Integration problems (PDF)" >}}
+{{% resource_link 257c1422-7640-a82d-98c4-72c179bfcb2c "Solutions to Applications of Integration problems (PDF)" %}}
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
-« {{< resource_link e183dee9-558e-331a-812d-6190993e58fc "Previous" >}} | {{< resource_link d008dd74-a84e-2b23-0239-ba6f9604c6fa "Next" >}} »
+« {{% resource_link e183dee9-558e-331a-812d-6190993e58fc "Previous" %}} | {{% resource_link d008dd74-a84e-2b23-0239-ba6f9604c6fa "Next" %}} »

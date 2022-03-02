@@ -9,7 +9,7 @@ title: 'Session 35: Using the Mean Value Theorem'
 uid: 673ff3f8-ec33-1bce-1196-314f7e83c11b
 ---
 
-« {{< resource_link 7a88ceaa-2050-2ee6-fbc4-c0ceeb51122e "Previous" >}} | {{< resource_link fa53a54f-7384-1c72-094d-c4856e73978e "Next" >}} »
+« {{% resource_link 7a88ceaa-2050-2ee6-fbc4-c0ceeb51122e "Previous" %}} | {{% resource_link fa53a54f-7384-1c72-094d-c4856e73978e "Next" %}} »
 
 Overview
 --------
@@ -21,17 +21,17 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link 448f01ad-bc35-de7f-f676-b7d9fb2fb06f "Clip 1: The Mean Value Theorem and Linear Approximation" >}}
+{{% resource_link 448f01ad-bc35-de7f-f676-b7d9fb2fb06f "Clip 1: The Mean Value Theorem and Linear Approximation" %}}
 
-{{< resource_link f273070b-902d-abef-9fec-aaf78199ffeb "Clip 2: The Mean Value Theorem and Inequalities" >}}
+{{% resource_link f273070b-902d-abef-9fec-aaf78199ffeb "Clip 2: The Mean Value Theorem and Inequalities" %}}
 
 Worked Example
 --------------
 
 The Mean Value Theorem and the Sine Function
 
-*   {{< resource_link d2fe64df-2bcc-4926-9e84-34b79e37acaa "Problem (PDF)" >}}
-*   {{< resource_link 0779a559-464b-16a0-18a0-508a08449470 "Solution (PDF)" >}}
+*   {{% resource_link d2fe64df-2bcc-4926-9e84-34b79e37acaa "Problem (PDF)" %}}
+*   {{% resource_link 0779a559-464b-16a0-18a0-508a08449470 "Solution (PDF)" %}}
 
 Recitation Video
 ----------------
@@ -44,4 +44,4 @@ Recitation Video
 
 {{< resource 01d3616b-10c8-63d6-5849-c3f638fafb62 >}}
 
-« {{< resource_link 7a88ceaa-2050-2ee6-fbc4-c0ceeb51122e "Previous" >}} | {{< resource_link fa53a54f-7384-1c72-094d-c4856e73978e "Next" >}} »
+« {{% resource_link 7a88ceaa-2050-2ee6-fbc4-c0ceeb51122e "Previous" %}} | {{% resource_link fa53a54f-7384-1c72-094d-c4856e73978e "Next" %}} »

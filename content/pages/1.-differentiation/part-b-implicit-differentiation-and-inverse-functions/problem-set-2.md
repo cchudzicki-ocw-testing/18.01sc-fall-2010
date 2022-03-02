@@ -9,7 +9,7 @@ title: Problem Set 2
 uid: 19961aa5-fe0a-0ea6-be7d-663fd98ff8f1
 ---
 
-« {{< resource_link da268fb0-fd08-ed16-c1b1-988ed700633a "Previous" >}} | {{< resource_link ffc4ad3d-8715-27a0-ef73-8ec4809f2038 "Next" >}} »
+« {{% resource_link da268fb0-fd08-ed16-c1b1-988ed700633a "Previous" %}} | {{% resource_link ffc4ad3d-8715-27a0-ef73-8ec4809f2038 "Next" %}} »
 
 Overview
 --------
@@ -22,7 +22,7 @@ In this session you will:
 Problem Set
 -----------
 
-Use {{< resource_link 87d9380b-a7de-44cb-eaca-3b655844a1d4 "Differentiation (PDF)" >}} to do the problems below.
+Use {{% resource_link 87d9380b-a7de-44cb-eaca-3b655844a1d4 "Differentiation (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -67,7 +67,7 @@ Higher derivatives
 
 {{< tableclose >}}
 
-Use {{< resource_link 50d9ff5b-7a30-fe96-bd69-017ca5104d6e "Integration Techniques (PDF)" >}} to do the problems below.
+Use {{% resource_link 50d9ff5b-7a30-fe96-bd69-017ca5104d6e "Integration Techniques (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -100,7 +100,7 @@ Inverse trigonometric functions; Hyperbolic functions
 
 {{< tableclose >}}
 
-Use {{< resource_link 87d9380b-a7de-44cb-eaca-3b655844a1d4 "Differentiation (PDF)" >}} to do the problems below.
+Use {{% resource_link 87d9380b-a7de-44cb-eaca-3b655844a1d4 "Differentiation (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -145,7 +145,7 @@ Exponentials and Logarithms: Calculus
 
 {{< tableclose >}}
 
-Use {{< resource_link 50d9ff5b-7a30-fe96-bd69-017ca5104d6e "Integration Techniques (PDF)" >}} to do the problems below.
+Use {{% resource_link 50d9ff5b-7a30-fe96-bd69-017ca5104d6e "Integration Techniques (PDF)" %}} to do the problems below.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -180,10 +180,10 @@ Inverse trigonometric functions; Hyperbolic functions
 
 ### Solutions
 
-{{< resource_link 84d01945-d2ea-f933-51ca-1371cbf98a5e "Solutions to Differentiation problems (PDF)" >}}
+{{% resource_link 84d01945-d2ea-f933-51ca-1371cbf98a5e "Solutions to Differentiation problems (PDF)" %}}
 
-{{< resource_link 06979381-db65-0b91-c0de-9d6755f03154 "Solutions to Integration Techniques problems (PDF)" >}}
+{{% resource_link 06979381-db65-0b91-c0de-9d6755f03154 "Solutions to Integration Techniques problems (PDF)" %}}
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
-« {{< resource_link da268fb0-fd08-ed16-c1b1-988ed700633a "Previous" >}} | {{< resource_link ffc4ad3d-8715-27a0-ef73-8ec4809f2038 "Next" >}} »
+« {{% resource_link da268fb0-fd08-ed16-c1b1-988ed700633a "Previous" %}} | {{% resource_link ffc4ad3d-8715-27a0-ef73-8ec4809f2038 "Next" %}} »

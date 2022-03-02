@@ -9,7 +9,7 @@ title: 'Session 15: Implicit Differentiation and Inverse Functions'
 uid: 5668bfaf-4a48-49cd-c9fb-5962b4a18003
 ---
 
-« {{< resource_link 331d135e-b824-4bc3-5069-e7f2d86beb59 "Previous" >}} | {{< resource_link a08812a6-29e7-6732-837d-8a39d48fc8fa "Next" >}} »
+« {{% resource_link 331d135e-b824-4bc3-5069-e7f2d86beb59 "Previous" %}} | {{% resource_link a08812a6-29e7-6732-837d-8a39d48fc8fa "Next" %}} »
 
 Overview
 --------
@@ -21,9 +21,9 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link 3fa63db0-186a-5fcc-a075-8cc5a5c531af "Clip 1: Derivative of the Inverse of a Function" >}}
+{{% resource_link 3fa63db0-186a-5fcc-a075-8cc5a5c531af "Clip 1: Derivative of the Inverse of a Function" %}}
 
-{{< resource_link fadb7e63-6011-5142-1f1c-cddc71cb33d6 "Clip 2: Derivative of the Arctan Function" >}}
+{{% resource_link fadb7e63-6011-5142-1f1c-cddc71cb33d6 "Clip 2: Derivative of the Arctan Function" %}}
 
 Recitation Video
 ----------------
@@ -37,7 +37,7 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link 597e91de-c65d-5b29-b425-70984dd79e04 "Clip 1: Derivative of the Arcsin Function" >}}
+{{% resource_link 597e91de-c65d-5b29-b425-70984dd79e04 "Clip 1: Derivative of the Arcsin Function" %}}
 
 Recitation Video
 ----------------
@@ -51,7 +51,7 @@ Worked Example
 
 Derivative of the Square Root Function
 
-*   {{< resource_link 5194ae00-0d2b-14dc-7a9e-377fc2eff268 "Problem (PDF)" >}}
-*   {{< resource_link 11c63174-17bd-f6c7-f976-183481025646 "Solution (PDF)" >}}
+*   {{% resource_link 5194ae00-0d2b-14dc-7a9e-377fc2eff268 "Problem (PDF)" %}}
+*   {{% resource_link 11c63174-17bd-f6c7-f976-183481025646 "Solution (PDF)" %}}
 
-« {{< resource_link 331d135e-b824-4bc3-5069-e7f2d86beb59 "Previous" >}} | {{< resource_link a08812a6-29e7-6732-837d-8a39d48fc8fa "Next" >}} »
+« {{% resource_link 331d135e-b824-4bc3-5069-e7f2d86beb59 "Previous" %}} | {{% resource_link a08812a6-29e7-6732-837d-8a39d48fc8fa "Next" %}} »

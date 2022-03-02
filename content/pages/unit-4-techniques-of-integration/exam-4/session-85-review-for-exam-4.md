@@ -9,7 +9,7 @@ title: 'Session 85: Review for Exam 4'
 uid: 4699d63d-2fc1-6b8b-d7fc-498a382dc972
 ---
 
-« {{< resource_link 6484ae59-4046-2fad-f99f-0d827e877e70 "Previous" >}} | {{< resource_link c0baf8c0-ea33-46ee-54ad-50f5dc690161 "Next" >}} »
+« {{% resource_link 6484ae59-4046-2fad-f99f-0d827e877e70 "Previous" %}} | {{% resource_link c0baf8c0-ea33-46ee-54ad-50f5dc690161 "Next" %}} »
 
 Overview
 --------
@@ -21,11 +21,11 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-{{< resource_link 2ca56aab-b828-4dd3-65a7-78bfa6095a42 "Clip 1: Review for Test IV" >}}
+{{% resource_link 2ca56aab-b828-4dd3-65a7-78bfa6095a42 "Clip 1: Review for Test IV" %}}
 
-{{< resource_link 44cd0f64-95bc-1e98-62e4-b349eabea7c1 "Clip 2: Student Questions on Test IV" >}}
+{{% resource_link 44cd0f64-95bc-1e98-62e4-b349eabea7c1 "Clip 2: Student Questions on Test IV" %}}
 
-{{< resource_link e35027b3-3aae-d5cc-c601-5ec61e810b7e "Clip 3: Integral of x arctan(x)" >}}
+{{% resource_link e35027b3-3aae-d5cc-c601-5ec61e810b7e "Clip 3: Integral of x arctan(x)" %}}
 
 Recitation Video
 ----------------
@@ -46,4 +46,4 @@ Recitation Video
 
 {{< resource f33bb888-4fb5-85aa-ed04-98e62a77a339 >}}
 
-« {{< resource_link 6484ae59-4046-2fad-f99f-0d827e877e70 "Previous" >}} | {{< resource_link c0baf8c0-ea33-46ee-54ad-50f5dc690161 "Next" >}} »
+« {{% resource_link 6484ae59-4046-2fad-f99f-0d827e877e70 "Previous" %}} | {{% resource_link c0baf8c0-ea33-46ee-54ad-50f5dc690161 "Next" %}} »
