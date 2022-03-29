@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 2: Summary of Examples'
 uid: 26f6623d-9d22-bf7c-88e7-1630a8cb811b
 video_files:

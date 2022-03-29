@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 1: Weighted Averages'
 uid: 252e20fd-7926-560d-4ab5-64aabb4d2e61
 video_files:

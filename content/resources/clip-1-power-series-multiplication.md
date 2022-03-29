@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 1: Power Series Multiplication'
 uid: e11e5864-fc6d-47a2-7430-edeb75b7fcfa
 video_files:

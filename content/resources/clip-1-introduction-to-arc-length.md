@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Clip 1: Introduction to Arc Length'
 uid: a5a12768-8d2d-bd61-319d-a40bbf8588de
 video_files:

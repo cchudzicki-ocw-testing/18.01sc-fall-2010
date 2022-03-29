@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Clip 1: Introduction to In\uFB01nite Series"
 uid: 1602117f-778e-b5e7-eb1c-34b09a4456f5
 video_files:
