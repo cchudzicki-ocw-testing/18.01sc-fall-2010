@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '135'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '76'
 title: 'Clip 2: Derivative of the Sum of Two Functions'
 uid: 4c18bf6a-dc98-ec8e-d31f-4326c29513d2
 video_files:

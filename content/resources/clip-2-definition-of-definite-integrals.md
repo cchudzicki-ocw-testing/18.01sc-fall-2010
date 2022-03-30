@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '447'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '243'
 title: 'Clip 2: Definition of Definite Integrals'
 uid: 8de1cfd3-5f8c-2869-da8a-95badfb51665
 video_files:

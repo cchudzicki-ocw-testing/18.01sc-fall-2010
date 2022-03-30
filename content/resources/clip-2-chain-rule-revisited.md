@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1465'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1149'
 title: 'Clip 2: Chain Rule, Revisited'
 uid: 8dcda0e6-5013-9d0b-195a-cc70ad6e0950
 video_files:

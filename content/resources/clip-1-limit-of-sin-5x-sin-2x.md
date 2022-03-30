@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '873'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '770'
 title: 'Clip 1: Limit of sin(5x)/sin(2x)'
 uid: 827530ca-77a2-59d7-b9e7-9d7f49b93601
 video_files:

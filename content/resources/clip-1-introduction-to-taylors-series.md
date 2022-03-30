@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2358'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1956'
 title: 'Clip 1: Introduction to Taylor''s Series'
 uid: 1a8a83ed-9ab0-f55e-4e4e-6dc0bc500094
 video_files:

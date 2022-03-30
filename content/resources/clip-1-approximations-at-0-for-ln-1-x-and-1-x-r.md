@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1239'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1020'
 title: 'Clip 1: Approximations at 0 for ln(1+x) and (1+x)r'
 uid: f94e298e-6404-225b-1dcb-b3e56d7c5192
 video_files:

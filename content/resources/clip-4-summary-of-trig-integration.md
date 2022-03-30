@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '932'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '743'
 title: 'Clip 4: Summary of Trig Integration'
 uid: cc4fcfaf-0b5e-5948-e7a1-0786f114764d
 video_files:

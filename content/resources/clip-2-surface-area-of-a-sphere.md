@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2468'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1907'
 title: 'Clip 2: Surface Area of a Sphere'
 uid: 2f90fa54-2821-b8d6-0f70-b75ddd84f9d3
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '833'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '537'
 title: 'Clip 1: Slope of Tangent to Circle: Direct'
 uid: 0e00e364-2ff5-6b56-cd52-7438643599b2
 video_files:

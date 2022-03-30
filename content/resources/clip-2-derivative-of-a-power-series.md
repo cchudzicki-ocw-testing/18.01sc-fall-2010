@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1600'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1475'
 title: 'Clip 2: Derivative of a Power Series'
 uid: dbdec610-3bc1-9dbd-ea05-e66dccd99a4e
 video_files:

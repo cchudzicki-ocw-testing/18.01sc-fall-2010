@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1863'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1712'
 title: 'Clip 1: Simple Definite Integrals'
 uid: cf3655fd-b915-c7a2-de51-eb5f8a7270e0
 video_files:

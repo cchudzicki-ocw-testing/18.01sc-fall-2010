@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2358'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2130'
 title: 'Clip 2: Integration by "Advanced Guessing"'
 uid: f82e29b8-72d7-6101-98c0-45e3dc6eb273
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '543'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '371'
 title: 'Clip 2: Average Height (3 min)'
 uid: 23b977c2-15c6-c476-cfc3-d8c93c944fdc
 video_files:

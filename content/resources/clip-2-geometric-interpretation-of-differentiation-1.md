@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '525'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '229'
 title: 'Clip 2: Geometric Interpretation of Differentiation'
 uid: c792b8c6-7c9d-5e16-2de2-70472fc10cbc
 video_files:

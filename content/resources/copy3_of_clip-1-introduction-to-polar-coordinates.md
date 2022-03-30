@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2962'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2659'
 title: 'Clip 4: Equation of an Off-Center Circle'
 uid: e0c6c5e4-9c89-82ae-888d-1531a0bf4c02
 video_files:

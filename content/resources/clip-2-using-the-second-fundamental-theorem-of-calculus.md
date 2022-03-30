@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1780'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1438'
 title: 'Clip 2: Using the Second Fundamental Theorem of Calculus'
 uid: 4fa23bfb-54ba-ea5a-bb1a-9efecf78d179
 video_files:

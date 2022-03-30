@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2173'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '818'
 title: 'Clip 1: Area Under the Bell Curve'
 uid: fecddcf0-b02c-4cc2-77cf-c201057e0e83
 video_files:

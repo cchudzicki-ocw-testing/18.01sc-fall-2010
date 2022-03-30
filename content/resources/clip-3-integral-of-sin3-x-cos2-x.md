@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '969'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '692'
 title: 'Clip 3: Integral of sin3(x) cos2(x)'
 uid: 1bb1c157-76ce-43ce-5ea0-a86caa307d99
 video_files:

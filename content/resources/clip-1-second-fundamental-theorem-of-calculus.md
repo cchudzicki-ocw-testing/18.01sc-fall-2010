@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1438'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1175'
 title: 'Clip 1: Second Fundamental Theorem of Calculus'
 uid: 752975a3-19c1-6369-42cb-3ed478cd0048
 video_files:

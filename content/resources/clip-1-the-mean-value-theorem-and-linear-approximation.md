@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2584'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2091'
 title: 'Clip 1: The Mean Value Theorem and Linear Approximation'
 uid: 448f01ad-bc35-de7f-f676-b7d9fb2fb06f
 video_files:

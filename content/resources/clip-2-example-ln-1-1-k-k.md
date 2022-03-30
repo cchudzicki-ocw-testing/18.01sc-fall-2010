@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1203'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '881'
 title: 'Clip 2: Example: ln((1+1/k)k)'
 uid: 29732684-216d-ba55-e2de-cbb66af279d3
 video_files:

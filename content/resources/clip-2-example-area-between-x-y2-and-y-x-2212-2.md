@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3016'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1940'
 title: "Clip 2: Example: Area Between x = y2 and y = x \u2212 2"
 uid: 01bbfa59-1b57-8216-eced-3cb210524b9b
 video_files:

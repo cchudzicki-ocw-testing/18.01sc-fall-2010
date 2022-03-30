@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2104'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1309'
 title: 'Clip 3: Polar Coordinates and Conic Sections'
 uid: aa32da2a-5d52-2a63-9548-3067a2b74e99
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2133'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1587'
 title: 'Clip 1: Differential Equations and Slope, Part 1'
 uid: 4b963f2d-c678-102b-2f16-ffa460d153a7
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1454'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1088'
 title: 'Clip 2: Antiderivative of xa'
 uid: 22bfcd5c-6c76-7ae7-4f1e-c119bdfc0885
 video_files:

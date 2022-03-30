@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1199'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '619'
 title: 'Clip 2: Separation of Variables'
 uid: 13966f0e-3791-5ab7-d9dc-ca7357ad2b9f
 video_files:

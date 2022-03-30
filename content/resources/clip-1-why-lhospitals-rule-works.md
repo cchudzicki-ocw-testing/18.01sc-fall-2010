@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '592'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '393'
 title: 'Clip 1: Why L''Hospital''s Rule Works'
 uid: d29cca56-2a25-450a-f75c-07b5c8dcee83
 video_files:

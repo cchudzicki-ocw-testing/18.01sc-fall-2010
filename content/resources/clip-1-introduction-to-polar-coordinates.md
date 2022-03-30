@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2110'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1691'
 title: 'Clip 1: Introduction to Polar Coordinates'
 uid: e48d3e0b-923b-3b92-1df0-b930b7b99d1b
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2689'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2590'
 title: 'Clip 4: Other (Ugly) Discontinuities'
 uid: f51b0250-8aa3-4b87-1333-b1af39c5201a
 video_files:

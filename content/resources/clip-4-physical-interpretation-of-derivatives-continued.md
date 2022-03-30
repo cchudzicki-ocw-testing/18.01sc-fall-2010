@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1081'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '711'
 title: 'Clip 4: Physical Interpretation of Derivatives, Continued'
 uid: 7d5236f8-d144-fdcc-7f07-3e52a26b1744
 video_files:

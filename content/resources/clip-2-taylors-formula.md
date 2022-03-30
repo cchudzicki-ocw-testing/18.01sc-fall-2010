@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2609'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2358'
 title: 'Clip 2: Taylor''s Formula'
 uid: 799aa397-3dc6-9c8e-0bf6-1d3b43b79c5f
 video_files:

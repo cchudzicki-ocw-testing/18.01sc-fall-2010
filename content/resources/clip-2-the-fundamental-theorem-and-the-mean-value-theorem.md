@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '625'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '127'
 title: 'Clip 2: The Fundamental Theorem and the Mean Value Theorem'
 uid: 283b3679-0ae6-6283-e88a-d91da10563ef
 video_files:

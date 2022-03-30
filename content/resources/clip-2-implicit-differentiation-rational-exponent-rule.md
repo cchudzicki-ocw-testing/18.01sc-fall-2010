@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '537'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '101'
 title: 'Clip 2: Implicit Differentiation: Rational Exponent Rule'
 uid: c22bb9f3-8d53-bfa3-1de4-29a979f83b22
 video_files:

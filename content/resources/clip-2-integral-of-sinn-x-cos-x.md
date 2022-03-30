@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '692'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '313'
 title: 'Clip 2: Integral of sinn(x) cos(x)'
 uid: 057c3e6b-2bae-fe5c-faee-dfd0d49060a0
 video_files:

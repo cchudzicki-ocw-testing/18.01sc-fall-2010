@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2607'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2474'
 title: 'Clip 3: Notation for Derivatives'
 uid: f8d2ffdf-157e-f753-85b1-e7c7b6a3af88
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1219'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '594'
 title: 'Clip 1: Volume of a Sphere'
 uid: 6126c8ea-5afa-a806-f5cd-1f11bf0653e3
 video_files:

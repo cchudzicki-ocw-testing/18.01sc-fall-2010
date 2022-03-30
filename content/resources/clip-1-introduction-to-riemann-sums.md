@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2392'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2099'
 title: 'Clip 1: Introduction to Riemann Sums'
 uid: 20c7d614-77a9-507b-e4f7-51a842ca7075
 video_files:

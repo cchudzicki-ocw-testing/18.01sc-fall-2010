@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2659'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2443'
 title: 'Clip 3: Translating y = 1 into Polar Coordinates'
 uid: c0863e4b-3521-7811-4f59-b5fcd2d543c5
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2894'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2687'
 title: 'Clip 1: Substitution When u'' Changes Sign'
 uid: 9bf78a07-0409-1203-f5e8-6499961cc320
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2646'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1838'
 title: 'Clip 2: Quadratic Factors'
 uid: 2bb3005d-9b4c-f5cb-63ac-2fa5e733e714
 video_files:

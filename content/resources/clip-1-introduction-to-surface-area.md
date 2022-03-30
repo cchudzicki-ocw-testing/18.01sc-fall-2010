@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1907'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1507'
 title: 'Clip 1: Introduction to Surface Area'
 uid: eae33632-1cb8-cc8d-2ce7-99ab99eff5f5
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2153'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1743'
 title: 'Clip 1: Derivative of the Inverse of a Function'
 uid: 3fa63db0-186a-5fcc-a075-8cc5a5c531af
 video_files:

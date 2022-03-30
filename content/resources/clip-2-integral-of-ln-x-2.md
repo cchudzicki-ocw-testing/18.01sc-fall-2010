@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1646'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1474'
 title: 'Clip 2: Integral of ln(x)2'
 uid: f7d1ebe5-d9cb-78c3-d35f-dcc0712cce78
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1054'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '721'
 title: 'Clip 4: An Improper Integral of the Second Kind'
 uid: 61ad839e-ca88-b025-4bad-d7001a373776
 video_files:

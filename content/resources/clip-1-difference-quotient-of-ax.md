@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '585'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '294'
 title: 'Clip 1: Difference Quotient of ax'
 uid: 86e8e0e0-dcf7-38a3-e928-d15f1e0437de
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1691'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1368'
 title: 'Clip 2: Surface Area of an Ellipsoid'
 uid: 5fc0efb0-2b63-e4b2-cd4b-c9fbdd8919de
 video_files:

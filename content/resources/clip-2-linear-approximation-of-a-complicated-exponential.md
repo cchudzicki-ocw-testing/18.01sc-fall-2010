@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1755'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1452'
 title: 'Clip 2: Linear Approximation of a Complicated Exponential'
 uid: 6866c7e0-6a0b-0985-2d2d-a535f72ad06d
 video_files:

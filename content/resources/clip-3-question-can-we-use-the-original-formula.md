@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2305'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2148'
 title: 'Clip 3: Question: Can We Use the Original Formula?'
 uid: c6751fb0-4db9-5938-0f34-845876b1a4cb
 video_files:

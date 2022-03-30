@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2693'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2383'
 title: 'Clip 2: Minimal Surface Area of a Box: Implicit   Differentiation'
 uid: 86818551-bc8f-bba3-55e8-5f6069468d41
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1630'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1426'
 title: 'Clip 4: Integral of 1/x'
 uid: 856c2ef2-077d-5244-b0c2-bdf1f5ac42fa
 video_files:

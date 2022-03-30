@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2091'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1590'
 title: 'Clip 2: Consequences of the Mean Value Theorem'
 uid: e33e5f75-a2fc-21fa-276f-88c31e8f1487
 video_files:

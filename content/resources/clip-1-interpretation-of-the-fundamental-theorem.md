@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '908'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '586'
 title: 'Clip 1: Interpretation of the Fundamental Theorem'
 uid: 3d0e48d9-709b-ecc8-6a6b-010ab5a65917
 video_files:

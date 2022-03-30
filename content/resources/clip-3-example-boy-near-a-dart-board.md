@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2004'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '132'
 title: 'Clip 3: Example: Boy Near a Dart Board'
 uid: 5467a0f4-3642-1043-d98a-7ba2cd1226dd
 video_files:

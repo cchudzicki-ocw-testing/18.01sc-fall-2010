@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1784'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1542'
 title: 'Clip 1: Rate of Growth of x ln(x)'
 uid: 62cb8338-ddc3-6272-d8dd-9ec6f31f1ccf
 video_files:

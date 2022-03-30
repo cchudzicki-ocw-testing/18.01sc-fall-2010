@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1104'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '543'
 title: 'Clip 3: Average Height with Respect to Arc Length'
 uid: 405986cd-097b-17cc-4740-e7351b2d9a91
 video_files:

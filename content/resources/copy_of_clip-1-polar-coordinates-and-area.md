@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '837'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '386'
 title: 'Clip 2: Area of an Off-Center Circle'
 uid: f9ab02fb-90fc-603d-7c27-1db29e848cfc
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2927'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2804'
 title: 'Clip 3: Examples of Comparison'
 uid: 7360e2ad-8187-eadd-e3cb-45d5c3b0b7b9
 video_files:

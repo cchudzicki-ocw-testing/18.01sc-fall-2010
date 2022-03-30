@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '620'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '342'
 title: 'Clip 1: Remarks on Notation'
 uid: 2b3d96ec-6849-27d4-3c9a-88074f93a3ca
 video_files:

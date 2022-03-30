@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '393'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '185'
 title: 'Clip 2: Elementary Example of L''Hospital''s Rule'
 uid: 492ae132-9d13-c9e1-7660-f08610a65d7b
 video_files:

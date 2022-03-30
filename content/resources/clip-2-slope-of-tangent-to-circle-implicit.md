@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1184'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '833'
 title: 'Clip 2: Slope of Tangent to Circle: Implicit'
 uid: 21cba796-97d1-6197-5ea4-a92cb2b3d356
 video_files:

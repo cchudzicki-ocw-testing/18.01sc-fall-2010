@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1368'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '620'
 title: 'Clip 1: Non-Constant Speed Parametrization'
 uid: a20e892c-2e73-087c-b790-1f6311bad2c5
 video_files:

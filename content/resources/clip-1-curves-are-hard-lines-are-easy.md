@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1452'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1239'
 title: 'Clip 1: Curves are Hard, Lines are Easy'
 uid: ee9e8d5d-ba30-f738-e2da-376233d75fc6
 video_files:

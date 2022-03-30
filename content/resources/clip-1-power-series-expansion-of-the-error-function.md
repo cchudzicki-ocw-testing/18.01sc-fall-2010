@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2294'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2117'
 title: 'Clip 1: Power Series Expansion of the Error Function'
 uid: 245d8878-895c-1cda-8227-8e7ae0f33dc4
 video_files:

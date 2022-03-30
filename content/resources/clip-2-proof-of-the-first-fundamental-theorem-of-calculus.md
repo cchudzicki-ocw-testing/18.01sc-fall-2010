@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2505'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1990'
 title: 'Clip 2: Proof of the First Fundamental Theorem of Calculus'
 uid: 58f5b4f2-afb2-20f1-ec7a-5eb30727a2b1
 video_files:

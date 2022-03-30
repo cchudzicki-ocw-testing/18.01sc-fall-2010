@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2807'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2505'
 title: 'Clip 3: Quadratic Approximation at 0 for Several Examples'
 uid: aca7d082-e903-4e2d-ba1e-f0b35ef6baa7
 video_files:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '779'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '323'
 title: 'Clip 2: Introduction to the Cover-Up Method'
 uid: 8e3424bf-4654-8ef0-a9ca-8e00035a1ec8
 video_files:
