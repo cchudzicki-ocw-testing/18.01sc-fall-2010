@@ -27,7 +27,7 @@ Lecture Video and Notes
 
 {{% resource_link f8d2ffdf-157e-f753-85b1-e7c7b6a3af88 "Clip 3: Notation for Derivatives" %}}
 
-[Clip 4: Example 2: y=xn]({{< baseurl >}}/resources/clip-4-example-2-y-xn)
+{{% resource_link "884d82f1-5f19-51da-6cfe-a3fcd83fa713" "Clip 4: Example 2: y=xn" %}}
 
 Worked Example
 --------------
