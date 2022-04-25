@@ -14,7 +14,7 @@ uid: 6b4ef500-53da-70f0-e865-4886100e09bb
 
 This part of the course describes how to integrate trigonometric functions, and how to use trigonometric functions to calculate otherwise intractable integrals.
 
-> » {{% resource_link f914f1dc-cfe8-c98b-34b4-2bcf2aa6e075 "Session 68: Integral of sinⁿ(*x*) cosᵐ(*x*), Odd Exponents" %}}
+> » {{% resource_link f914f1dc-cfe8-c98b-34b4-2bcf2aa6e075 "Session 68: Integral of sinⁿ(*x*) cosᵐ(*x*), Odd Exponents" %}}   
 > » {{% resource_link 60fd16b3-d72f-efca-7209-8904f15c0f02 "Session 69: Integral of sinⁿ(*x*) cosᵐ(*x*), Even Exponents" %}}  
 > » {{% resource_link a38f4a8d-d90b-153b-d08f-5ba8ba270970 "Session 70: Preview of Trig Substitution and Polar Coordinates" %}}  
 > » {{% resource_link 369ea1a0-42d3-4dea-55d0-7a2b967f59af "Session 71: Integrals Involving secant, cosecant and cotangent" %}}  
