@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   surface area.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/95219df9dd0ecab04b1170fd84348fc1_MIT18_01SCF10_ex79sol.pdf
+file: /courses/18-01sc-single-variable-calculus-fall-2010/95219df9dd0ecab04b1170fd84348fc1_MIT18_01SCF10_ex79sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,4 @@ resourcetype: Document
 title: MIT18_01SCF10_ex79sol.pdf
 uid: 95219df9-dd0e-cab0-4b11-70fd84348fc1
 ---
+This resource contains solutions for the problem statements related to surface area.

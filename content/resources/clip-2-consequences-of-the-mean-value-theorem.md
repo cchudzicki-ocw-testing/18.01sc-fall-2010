@@ -27,3 +27,4 @@ video_metadata:
 » {{% resource_link 70b03126-d02c-df5b-87bc-59e6e515bc73 "Accompanying Notes (PDF)" %}}
 
 From Lecture 14 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)
+

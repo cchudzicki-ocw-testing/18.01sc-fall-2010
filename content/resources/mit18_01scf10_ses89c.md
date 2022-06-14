@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains informations related to l'hospital's rule and
   rates of growth.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/9c9fed8a05ffaec6b597ca77756bb91f_MIT18_01SCF10_Ses89c.pdf
+file: /courses/18-01sc-single-variable-calculus-fall-2010/9c9fed8a05ffaec6b597ca77756bb91f_MIT18_01SCF10_Ses89c.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,4 @@ resourcetype: Document
 title: MIT18_01SCF10_Ses89c.pdf
 uid: 9c9fed8a-05ff-aec6-b597-ca77756bb91f
 ---
+This resource contains informations related to l'hospital's rule and rates of growth.
