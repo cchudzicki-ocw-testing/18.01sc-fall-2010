@@ -5,6 +5,7 @@ description: This resource contains information related to the exponential funct
 file: /courses/18-01sc-single-variable-calculus-fall-2010/61aaf938aa0da3a7c2a975deebd5bbf4_MIT18_01SCF10_Ses17d.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 17: The Exponential Function, its Derivative, and its Inverse'
 parent_type: CourseSection

@@ -5,6 +5,7 @@ description: This resource contains problem statements related to product of lin
 file: /courses/18-01sc-single-variable-calculus-fall-2010/6e8aadf9ec0a5e4e299ff94932d72f40_MIT18_01SCF10_ex24prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 24: Examples of Linear Approximation'
 parent_type: CourseSection

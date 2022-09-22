@@ -4,6 +4,7 @@ description: This resource contains problem statements related to definite integ
 file: /courses/18-01sc-single-variable-calculus-fall-2010/0d8492c86bd1ec85c635c27381afc54c_MIT18_01SCF10_ex47prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 47: Introduction of the Fundamental Theorem of Calculus'
 parent_type: CourseSection

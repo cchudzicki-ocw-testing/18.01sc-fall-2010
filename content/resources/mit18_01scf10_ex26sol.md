@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-01sc-single-variable-calculus-fall-2010/962423b16573a8a78bc7d1cba680f305_MIT18_01SCF10_ex26sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 26: Using Quadratic Approximations'
 parent_type: CourseSection

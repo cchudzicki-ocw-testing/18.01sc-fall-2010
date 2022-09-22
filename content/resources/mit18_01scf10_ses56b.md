@@ -5,6 +5,7 @@ description: This resource contains information about geometric interpretation o
 file: /courses/18-01sc-single-variable-calculus-fall-2010/f150931414da32292aacb71a86a55acd_MIT18_01SCF10_Ses56b.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 56: Geometric Interpretation of Definite Integrals'
 parent_type: CourseSection

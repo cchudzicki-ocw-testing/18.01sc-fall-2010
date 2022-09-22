@@ -5,6 +5,7 @@ description: This resource contains the solutions for the problems related to th
 file: /courses/18-01sc-single-variable-calculus-fall-2010/7d8a36ca15f9a6791ae1f6a08d815f01_MIT18_01SCF10_ex87sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 87: L''Hospital''s Rule'
 parent_type: CourseSection

@@ -5,6 +5,7 @@ description: This resource contains information related to implicit differentiat
 file: /courses/18-01sc-single-variable-calculus-fall-2010/157e1a358da2e7815736937bf75b8942_MIT18_01SCF10_Ses15a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 15: Implicit Differentiation and Inverse Functions'
 parent_type: CourseSection

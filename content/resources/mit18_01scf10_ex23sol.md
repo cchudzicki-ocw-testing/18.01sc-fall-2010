@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-01sc-single-variable-calculus-fall-2010/3ec09c2e10fb07da17fccb0097419b3c_MIT18_01SCF10_ex23sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 23: Linear Approximation'
 parent_type: CourseSection

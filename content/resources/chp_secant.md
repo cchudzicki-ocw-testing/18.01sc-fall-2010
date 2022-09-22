@@ -10,6 +10,7 @@ image_metadata:
   image-alt: 'A graph of three lines, red, yellow, and blue that represent secant
     approximation. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: CHP_secant.jpg

@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-01sc-single-variable-calculus-fall-2010/bde06f55dbe791c648649b4b942df999_MIT18_01SCF10_ex02sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 2: Examples of Derivatives'
 parent_type: CourseSection

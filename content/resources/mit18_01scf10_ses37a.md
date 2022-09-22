@@ -4,6 +4,7 @@ description: This resource contains information about antidervatives.
 file: /courses/18-01sc-single-variable-calculus-fall-2010/77e900e36bf3abd851fabbb1dd816c09_MIT18_01SCF10_Ses37a.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 37: Antiderivatives'
 parent_type: CourseSection

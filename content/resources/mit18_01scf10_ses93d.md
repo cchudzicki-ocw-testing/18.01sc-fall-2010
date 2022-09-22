@@ -5,6 +5,7 @@ description: This resource contains informations related to indefinite integrals
 file: /courses/18-01sc-single-variable-calculus-fall-2010/69cbe9b226774e56effadc31c8195b97_MIT18_01SCF10_Ses93d.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 93: Indefinite Integrals and Singularities'
 parent_type: CourseSection

@@ -5,6 +5,7 @@ description: This resource contains problem statements related to revolution abo
 file: /courses/18-01sc-single-variable-calculus-fall-2010/d06918b918ec707d6923f240d8d9803e_MIT18_01SCF10_ex57prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 57: How to Calculate Volumes'
 parent_type: CourseSection

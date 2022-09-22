@@ -5,6 +5,7 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-01sc-single-variable-calculus-fall-2010/0bc1cc1eb12dc56901b80073959a100d_MIT18_01SCF10_ex44sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 44: Adding Areas of Rectangles'
 parent_type: CourseSection

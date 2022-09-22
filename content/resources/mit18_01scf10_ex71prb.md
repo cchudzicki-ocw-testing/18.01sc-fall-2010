@@ -5,6 +5,7 @@ description: This resource contains problem statements related to integrals invo
 file: /courses/18-01sc-single-variable-calculus-fall-2010/a4f718fcbc599aaa69e7393645533210_MIT18_01SCF10_ex71prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: This resource contains problem statements related to alternate solu
 file: /courses/18-01sc-single-variable-calculus-fall-2010/8b37b56d2f59ee41cc63f9e0410c4831_MIT18_01SCF10_ex70prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 70: Preview of Trig Substitution and Polar Coordinates'
 parent_type: CourseSection

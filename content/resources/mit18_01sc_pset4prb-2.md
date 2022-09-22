@@ -4,6 +4,7 @@ description: 'This resource contains problem sets of applications of integration
 file: /courses/18-01sc-single-variable-calculus-fall-2010/92e9fe301b92d11995b3775aedb4bd6a_MIT18_01SC_pset4prb.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 8
 parent_type: CourseSection
