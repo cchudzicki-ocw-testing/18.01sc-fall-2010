@@ -3,13 +3,14 @@ content_type: resource
 description: This resource contains problem statements related to integral of |x|.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/b09a9ab0e113c68d30dd7be9812fec19_MIT18_01SCF10_ex45prb.pdf
+file_size: ''
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 45: Some Easy Integrals'
