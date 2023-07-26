@@ -4,13 +4,14 @@ description: This resource contains information about sketching graphs II - gene
   strategies.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/04248907c72e201f7e6441e43127d34f_MIT18_01SCF10_Ses28a.pdf
+file_size: ''
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Problem Sets
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 28: Sketching Graphs II - General Strategies'
