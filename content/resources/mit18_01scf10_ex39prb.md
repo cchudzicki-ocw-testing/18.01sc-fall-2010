@@ -3,13 +3,14 @@ content_type: resource
 description: This resource contains problem statements related to differential equations.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/f84f043305232520221e776274e80597_MIT18_01SCF10_ex39prb.pdf
+file_size: ''
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Problem Sets with Solutions
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 39: Introduction to Differential Equations'
