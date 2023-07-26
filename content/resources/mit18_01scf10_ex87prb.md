@@ -3,13 +3,14 @@ content_type: resource
 description: This resource contains problem statements related to L'hospital's rule.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/308a1ff099faf66c4dc14595014a3b2d_MIT18_01SCF10_ex87prb.pdf
+file_size: ''
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exams with Solutions
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 87: L''Hospital''s Rule'
