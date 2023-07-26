@@ -4,13 +4,14 @@ description: "This resource contains the solutions for the problems related to t
   \ con\uFB01rming an integral converges."
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/d6bdcc7164b54c3e84165f05a34cdc60_MIT18_01SCF10_ex92sol.pdf
+file_size: ''
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exams with Solutions
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 92: Integral Comparison'
