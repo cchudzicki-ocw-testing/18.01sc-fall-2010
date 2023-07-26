@@ -4,13 +4,14 @@ description: This resource contains solutions related to integrals involving sec
   cosecant and cotangent.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/c05c05172bf0f7543b3c2daeaf308521_MIT18_01SCF10_ex71sol.pdf
+file_size: ''
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exams with Solutions
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
