@@ -4,13 +4,14 @@ description: This resource contains solutions for the problem statements related
   numerical integration.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/1994a577d20660142af2f4f13cd66fa0_MIT18_01SCF10_ex64sol.pdf
+file_size: ''
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Problem Sets
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 64: Numerical Integration, Continued'
