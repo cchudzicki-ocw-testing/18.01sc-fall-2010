@@ -4,13 +4,14 @@ description: This resource contains problem statements related to linear approxi
   to calculator computations.
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/f94c79bce97c8292a73f4a678200d80e_MIT18_01SCF10_ex23prb.pdf
+file_size: ''
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Session 23: Linear Approximation'
