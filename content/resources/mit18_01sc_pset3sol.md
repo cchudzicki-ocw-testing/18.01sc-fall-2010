@@ -3,13 +3,13 @@ content_type: resource
 description: 'This resource contains solutions of integration problems. '
 draft: false
 file: /courses/18-01sc-single-variable-calculus-fall-2010/0c2dce083a72b3578eb1803326353b67_MIT18_01SC_pset3sol.pdf
+file_size: ''
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Problem Sets with Solutions
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 5
